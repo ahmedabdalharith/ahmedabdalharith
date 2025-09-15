@@ -106,9 +106,6 @@ const ahmed = {
 ## 🚀 Tech Stack & Expertise
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
 ### 📱 **Mobile Development Excellence**
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
@@ -552,8 +549,6 @@ objectives:
 ## 🏆 GitHub Achievements & Recognition
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
