@@ -2,9 +2,9 @@
   
 # Hi there, I'm Ahmed Ibrahim 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Backend+Enthusiast;Mathematics+%26+Computer+Science+Graduate;Building+Scalable+%26+Modern+Applications;Always+Learning+New+Technologies!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Android+Developer+%7C+Backend+Enthusiast;📊+Mathematics+%26+Computer+Science+Graduate;⚡+Building+Scalable+%26+Modern+Applications;🎯+Always+Learning+New+Technologies!;💡+Turning+Ideas+Into+Reality!" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=&fontSize=0" width="100%">
 
 </div>
 
@@ -14,33 +14,39 @@
 
 <div align="center">
 
-<table border="0" cellpadding="20" cellspacing="0">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3&section=header" width="100%">
+
+<table border="0" cellpadding="25" cellspacing="0" style="border-radius: 15px;">
 <tr>
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top" style="padding: 25px;">
 
 <div align="left">
 
 ### 👨‍💻 **Who Am I?**
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" style="float: right;">
 
 > 💡 **Passionate Full-Stack Developer** from Egypt 🇪🇬  
 > 🎓 **Mathematics & Computer Science Graduate**  
 > 🚀 **Specialized in Android Development & Backend Systems**  
 > ⚙️ **Laravel & Spring Boot Expert**  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🎯 **What Drives Me?**
 
 ```yaml
 passions:
-  innovation: "Exploring cutting-edge technologies"
-  architecture: "Building scalable solutions"
-  design: "Crafting beautiful user experiences"
-  collaboration: "Working with amazing teams"
-  learning: "Continuous skill development"
+  innovation: "🔮 Exploring cutting-edge technologies"
+  architecture: "🏗️ Building scalable solutions"
+  design: "🎨 Crafting beautiful user experiences"
+  collaboration: "🤝 Working with amazing teams"
+  learning: "📚 Continuous skill development"
 ```
 
 ### 🌟 **Core Values**
+
+<div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; color: white;">
 
 - **🔥 Quality First** → Writing clean, maintainable code
 - **⚡ Performance Focused** → Optimized, efficient solutions  
@@ -50,22 +56,28 @@ passions:
 
 </div>
 
+</div>
+
 </td>
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top" style="padding: 25px;">
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 10px;"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="border-radius: 15px; border: 3px solid #00D9FF;"/>
 
 <br><br>
 
 ### 📊 **GitHub Analytics**
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdalharith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdalharith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=15)
+
+</div>
 
 ### ⚡ **Developer Insights**
 
-<div align="left" style="padding: 10px;">
+<div align="left" style="padding: 15px; background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460); border-radius: 10px;">
 
 ```javascript
 const ahmed = {
@@ -85,6 +97,8 @@ const ahmed = {
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3&section=footer" width="100%">
+
 </div>
 
 ---
@@ -93,59 +107,61 @@ const ahmed = {
 
 <div align="center">
 
-### 📱 **Mobile Development Excellence**
-<div style="padding: 15px;">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio&theme=dark" height="60"/>
+### 📱 **Mobile Development Excellence**
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio&theme=dark" height="80"/>
 
 <br><br>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&shadow=0px_4px_8px_rgba(127,82,255,0.3))
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&shadow=0px_4px_8px_rgba(237,139,0,0.3))
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&shadow=0px_4px_8px_rgba(61,220,132,0.3))
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&shadow=0px_4px_8px_rgba(66,133,244,0.3))
 
 </div>
 
 ### ⚙️ **Backend & Systems Mastery**
-<div style="padding: 15px;">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
-<img src="https://skillicons.dev/icons?i=laravel,spring,php,python&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=laravel,spring,php,python&theme=dark" height="80"/>
 
 <br><br>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&shadow=0px_4px_8px_rgba(255,45,32,0.3))
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&shadow=0px_4px_8px_rgba(119,123,180,0.3))
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&shadow=0px_4px_8px_rgba(109,179,63,0.3))
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&shadow=0px_4px_8px_rgba(55,118,171,0.3))
 
 </div>
 
 ### 🗄️ **Database & Cloud Solutions**
-<div style="padding: 15px;">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,redis&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,redis&theme=dark" height="80"/>
 
 <br><br>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&shadow=0px_4px_8px_rgba(68,121,161,0.3))
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&shadow=0px_4px_8px_rgba(0,59,87,0.3))
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&shadow=0px_4px_8px_rgba(255,202,40,0.3))
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&shadow=0px_4px_8px_rgba(220,56,45,0.3))
 
 </div>
 
 ### 🎨 **Design & Development Tools**
-<div style="padding: 15px;">
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
-<img src="https://skillicons.dev/icons?i=illustrator,photoshop,git,figma&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=illustrator,photoshop,git,figma&theme=dark" height="80"/>
 
 <br><br>
 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&shadow=0px_4px_8px_rgba(255,154,0,0.3))
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&shadow=0px_4px_8px_rgba(49,168,255,0.3))
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&shadow=0px_4px_8px_rgba(240,80,50,0.3))
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&shadow=0px_4px_8px_rgba(242,78,30,0.3))
 
 </div>
 
@@ -157,18 +173,20 @@ const ahmed = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ### 🚀 **Explore My Development Portfolio**
 
 <table>
 <tr>
 <td width="50%" align="center" style="padding: 20px;">
 
-<div style="border: 2px solid #7C3AED; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%);">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
 
 ### ✈️ **Flight Booking App**
 *Modern flight booking solution with real-time search capabilities*
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" style="margin: 10px 0;">
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API` `Firebase`
@@ -181,19 +199,19 @@ const ahmed = {
 
 <br>
 
-[🔗 **Explore Project**](https://github.com/ahmedabdalharith)
+[![Explore Project](https://img.shields.io/badge/🚀%20Explore%20Project-667eea?style=for-the-badge&logoColor=white&logo=github)](https://github.com/ahmedabdalharith)
 
 </div>
 
 </td>
 <td width="50%" align="center" style="padding: 20px;">
 
-<div style="border: 2px solid #059669; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #064e3b 0%, #065f46 100%);">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(240, 147, 251, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
 
 ### 🛒 **E-Commerce Platform**
 *Complete shopping experience with comprehensive admin dashboard*
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100" style="margin: 10px 0;">
 
 **🔧 Technology Stack:**  
 `Laravel` `PHP` `MySQL` `Vue.js` `Redis`
@@ -206,7 +224,7 @@ const ahmed = {
 
 <br>
 
-[🔗 **Explore Project**](https://github.com/ahmedabdalharith)
+[![Explore Project](https://img.shields.io/badge/🚀%20Explore%20Project-f093fb?style=for-the-badge&logoColor=white&logo=github)](https://github.com/ahmedabdalharith)
 
 </div>
 
@@ -215,12 +233,12 @@ const ahmed = {
 <tr>
 <td width="50%" align="center" style="padding: 20px;">
 
-<div style="border: 2px solid #DC2626; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%);">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
 
 ### 📚 **Learning Management System**
 *Educational platform with interactive features and progress tracking*
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/219923828-127f21c6-808e-4e4e-92fe-e4b0c5a87819.gif" width="100" style="margin: 10px 0;">
 
 **🔧 Technology Stack:**  
 `Laravel` `PHP` `MySQL` `Bootstrap` `Chart.js`
@@ -233,19 +251,19 @@ const ahmed = {
 
 <br>
 
-[🔗 **Explore Project**](https://github.com/ahmedabdalharith)
+[![Explore Project](https://img.shields.io/badge/🚀%20Explore%20Project-4facfe?style=for-the-badge&logoColor=white&logo=github)](https://github.com/ahmedabdalharith)
 
 </div>
 
 </td>
 <td width="50%" align="center" style="padding: 20px;">
 
-<div style="border: 2px solid #0891B2; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #164e63 0%, #155e75 100%);">
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(250, 112, 154, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
 
 ### 📖 **Quran Reader App**
 *Beautiful Islamic application with audio recitation and translations*
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="100" style="margin: 10px 0;">
 
 **🔧 Technology Stack:**  
 `Kotlin` `Room Database` `ExoPlayer` `Custom Views`
@@ -258,7 +276,7 @@ const ahmed = {
 
 <br>
 
-[🔗 **Explore Project**](https://github.com/ahmedabdalharith)
+[![Explore Project](https://img.shields.io/badge/🚀%20Explore%20Project-fa709a?style=for-the-badge&logoColor=white&logo=github)](https://github.com/ahmedabdalharith)
 
 </div>
 
@@ -268,7 +286,11 @@ const ahmed = {
 
 <br>
 
-[![View All Projects](https://img.shields.io/badge/🚀%20Explore%20Complete%20Portfolio-4C1D95?style=for-the-badge&logoColor=white&logo=github)](https://github.com/ahmedabdalharith?tab=repositories)
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+[![View All Projects](https://img.shields.io/badge/🚀%20Explore%20Complete%20Portfolio-white?style=for-the-badge&logoColor=667eea&logo=github)](https://github.com/ahmedabdalharith?tab=repositories)
+
+</div>
 
 </div>
 
@@ -276,14 +298,24 @@ const ahmed = {
 
 ### 💻 **Technology Distribution & Expertise**
 
-<table cellpadding="10" style="width: 100%;">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%">
+
+<table cellpadding="15" style="width: 100%;">
 <tr>
 <td width="60%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdalharith&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=10)
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdalharith&layout=compact&theme=dark&hide_border=true&bg_color=45,667eea,764ba2&title_color=FFFFFF&text_color=FFFFFF&langs_count=8&border_radius=15)
+
+</div>
 
 </td>
-<td width="40%" align="left" style="padding-left: 20px;">
+<td width="40%" align="left" style="padding-left: 25px;">
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
 **🎯 Language Expertise:**
 
@@ -305,23 +337,29 @@ secondary:
 - 🌐 **15%** Frontend Development
 - 🎨 **10%** UI/UX & Design
 
+</div>
+
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=footer" width="100%">
 
 </div>
 
 <br><br>
 
-<div style="background: linear-gradient(135deg, #155e75 0%, #0891b2 100%); padding: 25px; border-radius: 12px; border: 1px solid #06b6d4;">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px; box-shadow: 0 15px 35px rgba(240, 147, 251, 0.3);">
 
 ### 🏆 **Development Achievements & Metrics**
 
-<table cellpadding="15" style="width: 100%;">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" style="float: right; margin-left: 20px;">
+
+<table cellpadding="20" style="width: 100%;">
 <tr>
 <td width="25%" align="center">
 
-<div style="background: rgba(0, 0, 0, 0.3); padding: 15px; border-radius: 8px;">
+<div style="background: rgba(255, 255, 255, 0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
 
 **📦 Repositories**
 ### 30+
@@ -332,7 +370,7 @@ secondary:
 </td>
 <td width="25%" align="center">
 
-<div style="background: rgba(0, 0, 0, 0.3); padding: 15px; border-radius: 8px;">
+<div style="background: rgba(255, 255, 255, 0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
 
 **⭐ Total Stars**
 ### 75+
@@ -343,7 +381,7 @@ secondary:
 </td>
 <td width="25%" align="center">
 
-<div style="background: rgba(0, 0, 0, 0.3); padding: 15px; border-radius: 8px;">
+<div style="background: rgba(255, 255, 255, 0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
 
 **🔄 Contributions**
 ### 1200+
@@ -354,7 +392,7 @@ secondary:
 </td>
 <td width="25%" align="center">
 
-<div style="background: rgba(0, 0, 0, 0.3); padding: 15px; border-radius: 8px;">
+<div style="background: rgba(255, 255, 255, 0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
 
 **👥 Followers**
 ### 50+
@@ -379,13 +417,17 @@ secondary:
 
 ### 📈 **Annual Growth Trajectory**
 
-<div style="background: linear-gradient(90deg, #7c3aed 0%, #06b6d4 50%, #10b981 100%); padding: 3px; border-radius: 10px;">
-<div style="background: #0d1117; padding: 15px; border-radius: 7px;">
+<div align="center">
+
+<div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 5px; border-radius: 15px; margin: 20px 0;">
+<div style="background: #1a1a2e; padding: 20px; border-radius: 10px;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150" style="float: left; margin-right: 20px;">
 
 ```
-2023 ████████░░ 80% (Learning & Foundation)
-2024 ████████████░░ 90% (Building & Growth)  
-2025 ████████████████ 100% (Leading & Innovation)
+2023 ████████████░░░░ 75% (Learning & Foundation)
+2024 ████████████████░░ 90% (Building & Growth)  
+2025 ████████████████████ 100% (Leading & Innovation)
 ```
 
 **Current Focus:** 🎯 Laravel mastery, Android Jetpack Compose, and cloud architecture  
@@ -396,17 +438,25 @@ secondary:
 
 </div>
 
+</div>
+
 ---
 
 ## 🎯 Development Journey & Roadmap
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <table>
 <tr>
-<td width="33%" align="center" style="padding: 20px;">
+<td width="33%" align="center" style="padding: 25px;">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
 ### 🚀 **Currently Building**
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80" style="margin: 10px 0;">
 
 <div align="left">
 
@@ -421,10 +471,16 @@ active_projects:
 
 </div>
 
+</div>
+
 </td>
-<td width="33%" align="center" style="padding: 20px;">
+<td width="33%" align="center" style="padding: 25px;">
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
 ### 📚 **Learning & Expanding**
+
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="80" style="margin: 10px 0;">
 
 <div align="left">
 
@@ -439,10 +495,16 @@ skills_development:
 
 </div>
 
+</div>
+
 </td>
-<td width="33%" align="center" style="padding: 20px;">
+<td width="33%" align="center" style="padding: 25px;">
+
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
 ### 🎯 **2025 Goals & Vision**
+
+<img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="80" style="margin: 10px 0;">
 
 <div align="left">
 
@@ -457,28 +519,27 @@ objectives:
 
 </div>
 
+</div>
+
 </td>
 </tr>
 </table>
 
 ### 🛤️ **Professional Evolution Path**
 
-<div style="background: linear-gradient(90deg, #1e1b4b 0%, #7c3aed 50%, #06b6d4 100%); padding: 2px; border-radius: 10px; margin: 20px 0;">
-<div style="background: #0d1117; padding: 20px; border-radius: 8px;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 5px; border-radius: 15px; margin: 25px 0;">
+<div style="background: #1a1a2e; padding: 25px; border-radius: 10px;">
 
 **Career Development Roadmap:**
 
-```mermaid
-graph LR
-    A[Laravel Expert] --> B[Cloud Architect]
-    C[Android Specialist] --> D[Mobile Team Lead]
-    E[Full-Stack Developer] --> F[Technical Architect]
-    
-    B --> G[Senior Software Architect]
-    D --> G
-    F --> G
-    
-    style G fill:#7c3aed,stroke:#f59e0b,color:#fff
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" style="float: right;">
+
+```
+🚀 Laravel Expert ──────► 🏗️ Cloud Architect
+📱 Android Specialist ──► 👨‍💼 Mobile Team Lead  
+💻 Full-Stack Developer ► 🎯 Technical Architect
+                          │
+                          └──► 🌟 Senior Software Architect
 ```
 
 </div>
@@ -492,11 +553,21 @@ graph LR
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedabdalharith&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedabdalharith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+
+</div>
 
 ### 📊 **Contribution Activity**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedabdalharith&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff&area=true)
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedabdalharith&theme=tokyo-night&hide_border=true&bg_color=4facfe&color=ffffff&line=00f2fe&point=ffffff&area=true&border_radius=15)
+
+</div>
 
 </div>
 
@@ -506,15 +577,17 @@ graph LR
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ### 🤝 **Available for Collaboration**
 
 <table>
 <tr>
-<td width="25%" align="center" style="padding: 15px;">
+<td width="25%" align="center" style="padding: 20px;">
 
-<div style="background: linear-gradient(135deg, #312e81 0%, #7c3aed 100%); padding: 20px; border-radius: 10px;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); transition: transform 0.3s ease;">
 
-<img src="https://img.icons8.com/fluency/64/000000/android-os.png"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80"/>
 
 **📱 Android Development**
 - Kotlin & Jetpack Compose
@@ -525,11 +598,11 @@ graph LR
 </div>
 
 </td>
-<td width="25%" align="center" style="padding: 15px;">
+<td width="25%" align="center" style="padding: 20px;">
 
-<div style="background: linear-gradient(135deg, #065f46 0%, #059669 100%); padding: 20px; border-radius: 10px;">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); transition: transform 0.3s ease;">
 
-<img src="https://img.icons8.com/fluency/64/000000/laravel.png"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="80"/>
 
 **⚙️ Backend Development**
 - Laravel & PHP Expertise
@@ -540,11 +613,11 @@ graph LR
 </div>
 
 </td>
-<td width="25%" align="center" style="padding: 15px;">
+<td width="25%" align="center" style="padding: 20px;">
 
-<div style="background: linear-gradient(135deg, #991b1b 0%, #dc2626 100%); padding: 20px; border-radius: 10px;">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); transition: transform 0.3s ease;">
 
-<img src="https://img.icons8.com/fluency/64/000000/web-design.png"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923828-127f21c6-808e-4e4e-92fe-e4b0c5a87819.gif" width="80"/>
 
 **🎨 Full-Stack Solutions**
 - Frontend Development
@@ -555,11 +628,11 @@ graph LR
 </div>
 
 </td>
-<td width="25%" align="center" style="padding: 15px;">
+<td width="25%" align="center" style="padding: 20px;">
 
-<div style="background: linear-gradient(135deg, #155e75 0%, #0891b2 100%); padding: 20px; border-radius: 10px;">
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); transition: transform 0.3s ease;">
 
-<img src="https://img.icons8.com/fluency/64/000000/code.png"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="80"/>
 
 **🔧 Technical Consulting**
 - Code Architecture Review
@@ -575,7 +648,9 @@ graph LR
 
 ### 💰 **Professional Investment Rates**
 
-<div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 25px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150" style="float: right; margin-left: 20px;">
 
 | **Service Category** | **Rate Range** | **Expertise Level** | **Delivery Quality** |
 |:---:|:---:|:---:|:---:|
@@ -596,24 +671,26 @@ graph LR
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ### 🌐 **Professional Network & Contact**
 
-<div style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
 <a href="https://www.linkedin.com/in/ahmed-ibrahim-466a05287" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px_4px_8px_rgba(0,119,181,0.3)" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/ahmedabdalharith" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&shadow=0px_4px_8px_rgba(24,23,23,0.3)" alt="GitHub"/>
 </a>
 <a href="mailto:ahmed.alharith01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&shadow=0px_4px_8px_rgba(209,72,54,0.3)" alt="Email"/>
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&shadow=0px_4px_8px_rgba(0,0,0,0.3)" alt="Portfolio"/>
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&shadow=0px_4px_8px_rgba(37,211,102,0.3)" alt="WhatsApp"/>
 </a>
 
 </div>
@@ -622,30 +699,30 @@ graph LR
 
 <table>
 <tr>
-<td align="center" style="padding: 15px;">
-<div style="background: linear-gradient(135deg, #7c3aed 0%, #06b6d4 100%); padding: 15px; border-radius: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/work.png"/><br>
+<td align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="60"/><br>
 <strong>Full-Time Positions</strong><br>
 <small>Senior Laravel & Android Developer Roles</small>
 </div>
 </td>
-<td align="center" style="padding: 15px;">
-<div style="background: linear-gradient(135deg, #059669 0%, #10b981 100%); padding: 15px; border-radius: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/freelance.png"/><br>
+<td align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="60"/><br>
 <strong>Freelance Projects</strong><br>
 <small>Custom Mobile & Web Applications</small>
 </div>
 </td>
-<td align="center" style="padding: 15px;">
-<div style="background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%); padding: 15px; border-radius: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/collaboration.png"/><br>
+<td align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<img src="https://user-images.githubusercontent.com/74038190/219923828-127f21c6-808e-4e4e-92fe-e4b0c5a87819.gif" width="60"/><br>
 <strong>Open Source</strong><br>
 <small>Community Contributions & Leadership</small>
 </div>
 </td>
-<td align="center" style="padding: 15px;">
-<div style="background: linear-gradient(135deg, #0891b2 0%, #0ea5e9 100%); padding: 15px; border-radius: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/teacher.png"/><br>
+<td align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="60"/><br>
 <strong>Mentoring & Training</strong><br>
 <small>Code Reviews & Technical Guidance</small>
 </div>
@@ -655,8 +732,10 @@ graph LR
 
 ### 🎯 **What I'm Looking For:**
 
-<div style="background: linear-gradient(135deg, #1e1b4b 0%, #7c3aed 50%, #06b6d4 100%); padding: 3px; border-radius: 10px; margin: 20px 0;">
-<div style="background: #0d1117; padding: 20px; border-radius: 7px;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 5px; border-radius: 15px; margin: 25px 0;">
+<div style="background: #1a1a2e; padding: 25px; border-radius: 10px;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" style="float: right; margin-left: 20px;">
 
 - **🚀 Innovative Projects** that push the boundaries of technology
 - **🤝 Collaborative Teams** that value clean code and best practices  
@@ -673,36 +752,44 @@ graph LR
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=&fontSize=0" width="100%">
 
-<div style="background: linear-gradient(135deg, #1e1b4b 0%, #7c3aed 50%, #06b6d4 100%); padding: 3px; border-radius: 10px; margin: 20px 0;">
-<div style="background: #0d1117; padding: 20px; border-radius: 7px;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 5px; border-radius: 20px; margin: 25px 0;">
+<div style="background: #1a1a2e; padding: 30px; border-radius: 15px;">
 
-### 💫 *"Great software isn't just code - it's poetry written in logic, solving real problems for real people."*
-
-**☕ Developer's Philosophy:** I debug better with coffee ☕, code faster with music 🎵, and solve problems best when collaborating with amazing teams! 🤝
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💫+%22Great+software+isn't+just+code+-+it's+poetry+written+in+logic%22;☕+Developer's+Philosophy%3A+Debug+with+coffee%2C+code+with+music;🌟+Fun+Fact%3A+100%2C000%2B+lines+of+code+this+year+and+counting!" alt="Typing SVG" />
 
 **🌟 Fun Fact:** I've written over 100,000 lines of code this year and I'm just getting started! 🔥
 
 </div>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedabdalharith&color=7C3AED&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/ahmedabdalharith?color=06b6d4&style=for-the-badge&label=GitHub+Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/ahmedabdalharith?color=10b981&style=for-the-badge&label=Total+Stars)
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedabdalharith&color=667eea&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/ahmedabdalharith?color=764ba2&style=for-the-badge&label=GitHub+Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/ahmedabdalharith?color=f093fb&style=for-the-badge&label=Total+Stars)
+
+</div>
 
 <br>
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
+</div>
+
 <br>
 
-<div style="background: rgba(124, 58, 237, 0.1); padding: 15px; border-radius: 10px; border: 1px solid #7c3aed;">
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; border: 3px solid #667eea; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
 **🎯 Current Status:** Actively seeking new opportunities | Open for freelance projects | Available for technical consultations
 
 **📅 Last Updated:** September 2025 | Made with 💜, lots of ☕, and endless curiosity
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
