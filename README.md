@@ -2,7 +2,7 @@
   
 # Hi there, I'm Ahmed Ibrahim 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Android+Developer+%7C+Backend+Enthusiast;📊+Mathematics+%26+Computer+Science+Graduate;⚡+Building+Scalable+%26+Modern+Applications;🎯+Always+Learning+New+Technologies!;💡+Turning+Ideas+Into+Reality!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Android+%26+iOS+Developer;📊+Mathematics+%26+Computer+Science+Graduate;⚡+Building+Scalable+Cross-Platform+Apps;🎯+Always+Learning+New+Technologies!;💡+Turning+Ideas+Into+Reality!" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=&fontSize=0" width="100%">
 
@@ -26,10 +26,10 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" style="float: right;">
 
-> 💡 **Passionate Full-Stack Developer** from Egypt 🇪🇬  
+> 💡 **Passionate Mobile Developer** from Egypt 🇪🇬  
 > 🎓 **Mathematics & Computer Science Graduate**  
-> 🚀 **Specialized in Android Development & Backend Systems**  
-> ⚙️ **Laravel & Spring Boot Expert**  
+> 🚀 **Specialized in Android & iOS Development**  
+> 📱 **Kotlin & Java Enthusiast**  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -37,8 +37,8 @@
 
 ```yaml
 passions:
-  innovation: "🔮 Exploring cutting-edge technologies"
-  architecture: "🏗️ Building scalable solutions"
+  innovation: "🔮 Exploring cutting-edge mobile technologies"
+  architecture: "🏗️ Building scalable cross-platform solutions"
   design: "🎨 Crafting beautiful user experiences"
   collaboration: "🤝 Working with amazing teams"
   learning: "📚 Continuous skill development"
@@ -106,6 +106,7 @@ const ahmed = {
 ## 🚀 Tech Stack & Expertise
 
 <div align="center">
+
 ### 📱 **Mobile Development Excellence**
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
@@ -117,10 +118,15 @@ const ahmed = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&shadow=0px_4px_8px_rgba(237,139,0,0.3))
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&shadow=0px_4px_8px_rgba(61,220,132,0.3))
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&shadow=0px_4px_8px_rgba(66,133,244,0.3))
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white&shadow=0px_4px_8px_rgba(0,0,0,0.3))
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&shadow=0px_4px_8px_rgba(127,82,255,0.3))
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white&shadow=0px_4px_8px_rgba(255,102,0,0.3))
+![MVVM](https://img.shields.io/badge/MVVM-00897B?style=for-the-badge&logoColor=white&shadow=0px_4px_8px_rgba(0,137,123,0.3))
+![MVP](https://img.shields.io/badge/MVP-2196F3?style=for-the-badge&logoColor=white&shadow=0px_4px_8px_rgba(33,150,243,0.3))
 
 </div>
 
-### ⚙️ **Backend & Systems Mastery**
+### ⚙️ **Backend Development**
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
 <img src="https://skillicons.dev/icons?i=laravel,spring,php,python&theme=dark" height="80"/>
@@ -145,6 +151,7 @@ const ahmed = {
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&shadow=0px_4px_8px_rgba(0,59,87,0.3))
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&shadow=0px_4px_8px_rgba(255,202,40,0.3))
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&shadow=0px_4px_8px_rgba(220,56,45,0.3))
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white&shadow=0px_4px_8px_rgba(61,220,132,0.3))
 
 </div>
 
@@ -172,7 +179,7 @@ const ahmed = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### 🚀 **Explore My Development Portfolio**
+### 🚀 **Published Apps on Google Play Store**
 
 <table>
 <tr>
@@ -180,23 +187,23 @@ const ahmed = {
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
 
-### ✈️ **Flight Booking App**
-*Modern flight booking solution with real-time search capabilities*
+### 🎓 **Academoz - Educational Platform**
+*Comprehensive learning platform connecting students with quality education*
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" style="margin: 10px 0;">
 
 **🔧 Technology Stack:**  
-`Kotlin` `Jetpack Compose` `MVVM` `REST API` `Firebase`
+`Kotlin` `Java` `Jetpack Compose` `MVVM` `Firebase` `Material Design 3`
 
 **✨ Key Features:**  
-🔍 Real-time flight search & filtering  
-💳 Secure payment integration (Stripe)  
-🎨 Material Design 3 UI components  
-📊 Booking analytics & history  
+📚 Comprehensive course catalog  
+🎥 Video streaming integration  
+📊 Progress tracking & analytics  
+💬 Interactive learning tools  
 
 <br>
 
-[![Explore Project](https://img.shields.io/badge/🚀%20Explore%20Project-667eea?style=for-the-badge&logoColor=white&logo=github)](https://github.com/ahmedabdalharith)
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.academoz)
 
 </div>
 
@@ -205,23 +212,23 @@ const ahmed = {
 
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(240, 147, 251, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
 
-### 🛒 **E-Commerce Platform**
-*Complete shopping experience with comprehensive admin dashboard*
+### 📖 **Al-Rowadh Education**
+*Islamic educational app with structured learning curriculum*
 
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100" style="margin: 10px 0;">
 
 **🔧 Technology Stack:**  
-`Laravel` `PHP` `MySQL` `Vue.js` `Redis`
+`Kotlin` `XML` `Room Database` `MVP` `Material Design 3`
 
 **✨ Key Features:**  
-📦 Dynamic product catalog with search  
-🛒 Smart shopping cart & wishlist  
-💰 Multi-payment gateway integration  
-📈 Advanced analytics dashboard  
+📱 Beautiful, intuitive interface  
+🔖 Smart bookmarking system  
+📊 Learning progress dashboard  
+🌙 Dark mode support  
 
 <br>
 
-[![Explore Project](https://img.shields.io/badge/🚀%20Explore%20Project-f093fb?style=for-the-badge&logoColor=white&logo=github)](https://github.com/ahmedabdalharith)
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.eduction_alrowadh)
 
 </div>
 
@@ -232,23 +239,24 @@ const ahmed = {
 
 <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
 
-### 📚 **Learning Management System**
-*Educational platform with interactive features and progress tracking*
+### 🍽️ **Lucinda Oasis Restaurant**
+*Modern restaurant ordering app with seamless payment integration*
 
 <img src="https://user-images.githubusercontent.com/74038190/219923828-127f21c6-808e-4e4e-92fe-e4b0c5a87819.gif" width="100" style="margin: 10px 0;">
 
 **🔧 Technology Stack:**  
-`Laravel` `PHP` `MySQL` `Bootstrap` `Chart.js`
+`Kotlin` `Jetpack Compose` `MVVM` `Firebase` `Stripe Payment`
 
 **✨ Key Features:**  
-📖 Interactive course management  
-📅 Smart scheduling & assignments  
-📊 Progress tracking & analytics  
-🎥 Video streaming integration  
+🍔 Dynamic menu with images  
+🛒 Smart cart management  
+💳 Secure payment gateway (Stripe)  
+📍 Location-based services  
+🔔 Real-time order notifications  
 
 <br>
 
-[![Explore Project](https://img.shields.io/badge/🚀%20Explore%20Project-4facfe?style=for-the-badge&logoColor=white&logo=github)](https://github.com/ahmedabdalharith)
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.lucinda_oasis)
 
 </div>
 
@@ -257,23 +265,24 @@ const ahmed = {
 
 <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(250, 112, 154, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
 
-### 📖 **Quran Reader App**
-*Beautiful Islamic application with audio recitation and translations*
+### ✈️ **TAS Travel - Flight Booking**
+*Complete travel booking solution with real-time flight search*
 
 <img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="100" style="margin: 10px 0;">
 
 **🔧 Technology Stack:**  
-`Kotlin` `Room Database` `ExoPlayer` `Custom Views`
+`Kotlin` `Compose Multiplatform` `MVVM` `REST API` `Ktor`
 
 **✨ Key Features:**  
-📜 Beautiful Arabic text rendering  
-🔖 Smart bookmarks & notes  
-🎵 High-quality audio recitations  
-🌍 Multiple language translations  
+🔍 Advanced flight search & filters  
+✈️ Multi-city booking support  
+💼 Booking history & management  
+🎫 Digital ticket storage  
+🌍 Multi-currency support  
 
 <br>
 
-[![Explore Project](https://img.shields.io/badge/🚀%20Explore%20Project-fa709a?style=for-the-badge&logoColor=white&logo=github)](https://github.com/ahmedabdalharith)
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.game.tastravel)
 
 </div>
 
@@ -318,20 +327,21 @@ const ahmed = {
 
 ```yaml
 primary:
-  backend: "PHP, Laravel"
   mobile: "Kotlin, Java"
-  database: "MySQL, SQLite"
+  cross_platform: "Compose Multiplatform"
+  backend: "PHP, Laravel"
+  database: "MySQL, SQLite, Room"
   
 secondary:
   backend: "Spring Boot, Python"
-  frontend: "JavaScript, Vue.js"
-  systems: "C++"
+  patterns: "MVVM, MVP"
+  systems: "REST API"
 ```
 
 **📊 Development Focus:**
-- ⚙️ **40%** Backend Development (PHP/Laravel)
-- 📱 **35%** Mobile Development (Kotlin/Android)  
-- 🌐 **15%** Frontend Development
+- 📱 **50%** Android Development
+- 🍎 **20%** iOS (Compose Multiplatform)  
+- ⚙️ **20%** Backend Development
 - 🎨 **10%** UI/UX & Design
 
 </div>
@@ -391,9 +401,9 @@ secondary:
 
 <div style="background: rgba(255, 255, 255, 0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
 
-**👥 Followers**
-### 50+
-*Developer Network*
+**📱 Published Apps**
+### 4+
+*Play Store*
 
 </div>
 
@@ -402,11 +412,11 @@ secondary:
 </table>
 
 **🎯 Notable Achievements:**
-- 🚀 **Consistent Contributor** - Active daily coding streak
-- 💡 **Multi-language Developer** - Proficient in 7+ programming languages  
-- 🏗️ **Full-stack Architect** - End-to-end solution expertise
-- 📱 **Mobile & Backend Specialist** - Cross-platform development
-- 🎨 **UI/UX Enthusiast** - Design-to-code implementation
+- 🚀 **Published Developer** - 4+ apps on Google Play Store
+- 💡 **Multi-language Developer** - Kotlin, Java, PHP proficiency  
+- 🏗️ **Full-Stack Capable** - Mobile to Backend expertise
+- 📱 **Cross-Platform Specialist** - Android & iOS development
+- 🎨 **UI/UX Implementer** - Design-to-code excellence
 
 </div>
 
@@ -423,12 +433,12 @@ secondary:
 
 ```
 2023 ████████████░░░░ 75% (Learning & Foundation)
-2024 ████████████████░░ 90% (Building & Growth)  
-2025 ████████████████████ 100% (Leading & Innovation)
+2024 ████████████████░░ 90% (Building & Publishing)  
+2025 ████████████████████ 100% (Cross-Platform Mastery)
 ```
 
-**Current Focus:** 🎯 Laravel mastery, Android Jetpack Compose, and cloud architecture  
-**Next Milestone:** ⭐ Reach 100+ stars & lead major open source contributions
+**Current Focus:** 🎯 Compose Multiplatform, Laravel mastery, and advanced mobile architecture  
+**Next Milestone:** ⭐ 10+ published apps & full-stack mobile solutions
 
 </div>
 </div>
@@ -459,11 +469,11 @@ secondary:
 
 ```yaml
 active_projects:
-  mobile: "Jetpack Compose Applications"
-  backend: "Laravel API Microservices"
-  web: "Vue.js Admin Dashboards"
-  architecture: "Clean Code Patterns"
-  database: "Optimized Query Design"
+  mobile: "Jetpack Compose Apps"
+  ios: "Compose Multiplatform"
+  backend: "Laravel API Services"
+  architecture: "MVVM & MVP Patterns"
+  ui_ux: "Material Design 3"
 ```
 
 </div>
@@ -484,10 +494,10 @@ active_projects:
 ```yaml
 skills_development:
   multiplatform: "Kotlin Multiplatform Mobile"
-  cloud: "AWS & Docker Containers"
-  frontend: "React.js & TypeScript"
-  patterns: "Advanced System Design"
-  security: "API Security Best Practices"
+  backend: "Spring Boot Microservices"
+  advanced: "Advanced Compose Patterns"
+  patterns: "System Design"
+  cloud: "AWS & Docker"
 ```
 
 </div>
@@ -507,11 +517,11 @@ skills_development:
 
 ```yaml
 objectives:
-  publish: "5+ Mobile Apps to Play Store"
-  contribute: "Major Open Source Projects"
-  certify: "Laravel & AWS Certifications"
-  mentor: "Developer Community Leader"
-  freelance: "Global Client Success Stories"
+  publish: "10+ Mobile Apps"
+  master: "Compose Multiplatform"
+  backend: "Laravel & Spring Boot"
+  contribute: "Open Source Projects"
+  mentor: "Developer Community"
 ```
 
 </div>
@@ -532,9 +542,9 @@ objectives:
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" style="float: right;">
 
 ```
-🚀 Laravel Expert ──────► 🏗️ Cloud Architect
-📱 Android Specialist ──► 👨‍💼 Mobile Team Lead  
-💻 Full-Stack Developer ► 🎯 Technical Architect
+🚀 Mobile Developer ─────► 📱 Mobile Architect
+⚙️ Backend Developer ────► 👨‍💼 Full-Stack Lead  
+💻 Cross-Platform Dev ───► 🎯 Technical Architect
                           │
                           └──► 🌟 Senior Software Architect
 ```
@@ -585,10 +595,10 @@ objectives:
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80"/>
 
 **📱 Android Development**
-- Kotlin & Jetpack Compose
-- MVVM & Clean Architecture
-- Material Design 3
-- Play Store Optimization
+- Kotlin & Java
+- Jetpack Compose & XML
+- MVVM & MVP Architecture
+- Play Store Publishing
 
 </div>
 
@@ -600,10 +610,10 @@ objectives:
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="80"/>
 
 **⚙️ Backend Development**
-- Laravel & PHP Expertise
+- Laravel & PHP
+- Spring Boot & Java
 - RESTful API Design
 - Database Optimization
-- Microservices Architecture
 
 </div>
 
@@ -614,11 +624,11 @@ objectives:
 
 <img src="https://user-images.githubusercontent.com/74038190/219923828-127f21c6-808e-4e4e-92fe-e4b0c5a87819.gif" width="80"/>
 
-**🎨 Full-Stack Solutions**
-- Frontend Development
-- UI/UX Implementation
-- Responsive Design
-- Performance Optimization
+**🌍 Cross-Platform**
+- Compose Multiplatform
+- Android & iOS Apps
+- Shared Business Logic
+- App Store Publishing
 
 </div>
 
@@ -650,9 +660,9 @@ objectives:
 | **Service Category** | **Rate Range** | **Expertise Level** | **Delivery Quality** |
 |:---:|:---:|:---:|:---:|
 | 📱 **Mobile Development** | $18-28/hour | Senior Android | Production Ready |
-| ⚙️ **Backend APIs (Laravel)** | $22-35/hour | Laravel Expert | Scalable Solutions |
-| 🌐 **Full-Stack Projects** | $20-30/hour | End-to-End | Complete Solutions |
-| 🔧 **Technical Leadership** | $30-40/hour | Architecture Expert | Strategic Guidance |
+| ⚙️ **Backend APIs** | $22-35/hour | Laravel & Spring | Scalable Solutions |
+| 🌐 **Cross-Platform** | $25-35/hour | Compose KMP | Multi-Platform |
+| 🔧 **Technical Leadership** | $30-40/hour | Architecture | Strategic Guidance |
 
 *Rates vary based on project complexity, timeline, and long-term partnership opportunities*
 
@@ -698,28 +708,28 @@ objectives:
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="60"/><br>
 <strong>Full-Time Positions</strong><br>
-<small>Senior Laravel & Android Developer Roles</small>
+<small>Senior Mobile & Backend Roles</small>
 </div>
 </td>
 <td align="center" style="padding: 20px;">
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="60"/><br>
 <strong>Freelance Projects</strong><br>
-<small>Custom Mobile & Web Applications</small>
+<small>Custom Mobile & Backend Apps</small>
 </div>
 </td>
 <td align="center" style="padding: 20px;">
 <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 <img src="https://user-images.githubusercontent.com/74038190/219923828-127f21c6-808e-4e4e-92fe-e4b0c5a87819.gif" width="60"/><br>
 <strong>Open Source</strong><br>
-<small>Community Contributions & Leadership</small>
+<small>Community Contributions</small>
 </div>
 </td>
 <td align="center" style="padding: 20px;">
 <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 <img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="60"/><br>
-<strong>Mentoring & Training</strong><br>
-<small>Code Reviews & Technical Guidance</small>
+<strong>Mentoring</strong><br>
+<small>Code Reviews & Guidance</small>
 </div>
 </td>
 </tr>
@@ -732,11 +742,11 @@ objectives:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" style="float: right; margin-left: 20px;">
 
-- **🚀 Innovative Projects** that push the boundaries of technology
-- **🤝 Collaborative Teams** that value clean code and best practices  
-- **📱 Mobile-First Companies** building the next generation of apps
-- **⚙️ Backend Challenges** requiring scalable, high-performance solutions
-- **🌍 Global Remote Opportunities** with diverse, multicultural teams
+- **🚀 Innovative Mobile Projects** pushing boundaries of technology
+- **🤝 Collaborative Teams** valuing clean code and best practices  
+- **📱 Cross-Platform Companies** building next-gen mobile apps
+- **🌍 Global Remote Opportunities** with diverse teams
+- **💡 Full-Stack Positions** combining mobile and backend expertise
 
 </div>
 </div>
@@ -752,7 +762,7 @@ objectives:
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 5px; border-radius: 20px; margin: 25px 0;">
 <div style="background: #1a1a2e; padding: 30px; border-radius: 15px;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💫+%22Great+software+isn't+just+code+-+it's+poetry+written+in+logic%22;☕+Developer's+Philosophy%3A+Debug+with+coffee%2C+code+with+music;🌟+Fun+Fact%3A+100%2C000%2B+lines+of+code+this+year+and+counting!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💫+%22Great+software+isn't+just+code+-+it's+poetry+in+logic%22;☕+Developer's+Philosophy%3A+Debug+with+coffee%2C+code+with+music;🌟+Fun+Fact%3A+100%2C000%2B+lines+of+code+this+year!" alt="Typing SVG" />
 
 **🌟 Fun Fact:** I've written over 100,000 lines of code this year and I'm just getting started! 🔥
 
@@ -779,9 +789,9 @@ objectives:
 
 <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; border: 3px solid #667eea; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
-**🎯 Current Status:** Actively seeking new opportunities | Open for freelance projects | Available for technical consultations
+**🎯 Current Status:** Actively seeking opportunities | Open for freelance | Available for consultations
 
-**📅 Last Updated:** September 2025 | Made with 💜, lots of ☕, and endless curiosity
+**📅 Last Updated:** December 2025 | Made with 💜, lots of ☕, and endless passion
 
 </div>
 
