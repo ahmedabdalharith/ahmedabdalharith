@@ -6,6 +6,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=&fontSize=0" width="100%">
 
+<p>
+<a href="#-about-me">About</a> ·
+<a href="#-tech-stack--expertise">Tech Stack</a> ·
+<a href="#-featured-projects-showcase">Apps</a> ·
+<a href="#-development-journey--roadmap">Roadmap</a> ·
+<a href="#-professional-services--expertise">Services</a> ·
+<a href="#-lets-connect--build-the-future-together">Contact</a>
+</p>
+
+<p><b>29 apps published on Google Play</b> — delivery, e-commerce, healthcare, education, logistics and field services.</p>
+
 </div>
 
 ---
@@ -16,15 +27,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3&section=header" width="100%">
 
-<table border="0" cellpadding="25" cellspacing="0" style="border-radius: 15px;">
+<table border="0" cellpadding="25" cellspacing="0">
 <tr>
-<td width="50%" valign="top" style="padding: 25px;">
+<td width="50%" valign="top">
 
 <div align="left">
 
 ### 👨‍💻 **Who Am I?**
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" style="float: right;">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 > 💡 **Passionate Mobile Developer** from Egypt 🇪🇬  
 > 🎓 **Mathematics & Computer Science Graduate**  
@@ -46,7 +57,7 @@ passions:
 
 ### 🌟 **Core Values**
 
-<div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; color: white;">
+<div>
 
 - **🔥 Quality First** → Writing clean, maintainable code
 - **⚡ Performance Focused** → Optimized, efficient solutions  
@@ -59,17 +70,17 @@ passions:
 </div>
 
 </td>
-<td width="50%" valign="top" style="padding: 25px;">
+<td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="border-radius: 15px; border: 3px solid #00D9FF;"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
 <br><br>
 
 ### 📊 **GitHub Analytics**
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdalharith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=15)
 
@@ -77,7 +88,7 @@ passions:
 
 ### ⚡ **Developer Insights**
 
-<div align="left" style="padding: 15px; background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460); border-radius: 10px;">
+<div align="left">
 
 ```javascript
 const ahmed = {
@@ -108,7 +119,7 @@ const ahmed = {
 <div align="center">
 
 ### 📱 **Mobile Development Excellence**
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio&theme=dark" height="80"/>
 
@@ -127,7 +138,7 @@ const ahmed = {
 </div>
 
 ### ⚙️ **Backend Development**
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 <img src="https://skillicons.dev/icons?i=laravel,spring,php,python&theme=dark" height="80"/>
 
@@ -141,7 +152,7 @@ const ahmed = {
 </div>
 
 ### 🗄️ **Database & Cloud Solutions**
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,redis&theme=dark" height="80"/>
 
@@ -156,7 +167,7 @@ const ahmed = {
 </div>
 
 ### 🎨 **Design & Development Tools**
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 20px; margin: 15px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 <img src="https://skillicons.dev/icons?i=illustrator,photoshop,git,figma&theme=dark" height="80"/>
 
@@ -181,16 +192,69 @@ const ahmed = {
 
 ### 🚀 **Published Apps on Google Play Store**
 
+Every poster below uses real in-app screens — no stock mockups. Click a poster to open it full size.
+
+<table>
+<tr><td>
+
+**🛵 Delivery & logistics**  
+[Tasahel Express](https://play.google.com/store/apps/details?id=apps.projectegy.tasahel_captain) ·
+[Wasela Captain](https://play.google.com/store/apps/details?id=apps.projectegy.deliveryegyptcaptain) ·
+[ALAMRO Captain](https://play.google.com/store/apps/details?id=apps.projectegy.elamr_captain) ·
+[Rocket Cargo](https://play.google.com/store/apps/details?id=apps.captainrocketcargo) ·
+[SheDrive Driver](https://play.google.com/store/apps/details?id=apps.projectegy.shedrivedriver)
+
+**🛒 Commerce & marketplaces**  
+[Al Asdiqaa](https://play.google.com/store/apps/details?id=apps.elasdiqa) ·
+[Hadaya](https://play.google.com/store/apps/details?id=apps.projecteg.hadaya) ·
+[Farda Gomla](https://play.google.com/store/apps/details?id=apps.farda) ·
+[Marvel Cosmetics](https://play.google.com/store/apps/details?id=apps.marvel) ·
+[30 MIN](https://play.google.com/store/apps/details?id=apps.shasha_bagha) ·
+[Itqan Horeca](https://play.google.com/store/apps/details?id=apps.projectegy.itqaanapp)
+
+**🍽️ Food & restaurants**  
+[Lucinda Oasis](https://play.google.com/store/apps/details?id=apps.lucinda_oasis) ·
+[Emdad](https://play.google.com/store/apps/details?id=apps.projectegy.emdad) ·
+[Makuk](https://play.google.com/store/apps/details?id=apps.projectegy.makuk)
+
+</td><td>
+
+**🎓 Education**  
+[Academoz](https://play.google.com/store/apps/details?id=apps.academoz) ·
+[MaxWell](https://play.google.com/store/apps/details?id=app.maxwell) ·
+[Ways](https://play.google.com/store/apps/details?id=app.elzatoona) ·
+[Kedu](https://play.google.com/store/apps/details?id=game.projectegy.kedu) ·
+[Concrete Engineering](https://play.google.com/store/apps/details?id=apps.concret)
+
+**🏥 Health & services**  
+[Medi Care](https://play.google.com/store/apps/details?id=apps.projecteg.medicare) ·
+[Home Fix](https://play.google.com/store/apps/details?id=apps.projectegy.homefix) ·
+[Yalla Style](https://play.google.com/store/apps/details?id=apps.yallastyle_provider) ·
+[G4FIT](https://play.google.com/store/apps/details?id=apps.projecteg.g4fit)
+
+**🏗️ Business & directories**  
+[Rakaez](https://play.google.com/store/apps/details?id=apps.rakaez.client) ·
+[BNB Dafatery](https://play.google.com/store/apps/details?id=apps.bnb) ·
+[Egypt Online](https://play.google.com/store/apps/details?id=apps.egyptonline) ·
+[EGO](https://play.google.com/store/apps/details?id=projectegy.ego)
+
+**✈️ Travel & faith**  
+[TAS Travel](https://play.google.com/store/apps/details?id=com.game.tastravel) ·
+[Khatma](https://play.google.com/store/apps/details?id=com.khatma)
+
+</td></tr>
+</table>
+
 <table>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+<div>
 
 ### 🎓 **Academoz - Educational Platform**
 *Comprehensive learning platform connecting students with quality education*
 
-<a href="assets/posters/academoz.png"><img src="assets/posters/academoz.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/academoz.png"><img src="assets/posters/academoz.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Java` `Jetpack Compose` `MVVM` `Firebase` `Material Design 3`
@@ -208,14 +272,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(240, 147, 251, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+<div>
 
 ### 🛒 **Al Asdiqaa — الأصدقاء**
 *Online supermarket with branch-aware stock and home delivery*
 
-<a href="assets/posters/asdiqaa.png"><img src="assets/posters/asdiqaa.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/asdiqaa.png"><img src="assets/posters/asdiqaa.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API`
@@ -235,14 +299,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+<div>
 
 ### 🍽️ **Lucinda Oasis Restaurant**
 *Modern restaurant ordering app with seamless payment integration*
 
-<a href="assets/posters/lucinda.png"><img src="assets/posters/lucinda.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/lucinda.png"><img src="assets/posters/lucinda.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `Firebase` `Stripe Payment`
@@ -261,14 +325,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(250, 112, 154, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+<div>
 
 ### ✈️ **TAS Travel - Flight Booking**
 *Complete travel booking solution with real-time flight search*
 
-<a href="assets/posters/tastravel.png"><img src="assets/posters/tastravel.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/tastravel.png"><img src="assets/posters/tastravel.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `MVVM` `REST API` `Ktor`
@@ -289,14 +353,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(48, 207, 208, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+<div>
 
 ### 🏥 **Medi Care — ميدي كير**
 *Medical care membership with discounts across partner clinics and labs*
 
-<a href="assets/posters/medicare.png"><img src="assets/posters/medicare.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/medicare.png"><img src="assets/posters/medicare.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API` `Material Design`
@@ -314,14 +378,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: linear-gradient(135deg, #f6d365 0%, #fda085 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(253, 160, 133, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+<div>
 
 ### 🛠️ **Home Fix — هوم فيكس**
 *On-demand home maintenance: request a technician, track the visit*
 
-<a href="assets/posters/homefix.png"><img src="assets/posters/homefix.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/homefix.png"><img src="assets/posters/homefix.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `MVVM` `Ktor` `Koin`
@@ -341,14 +405,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(255, 154, 158, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+<div>
 
 ### 🎁 **Hadaya — هدايا**
 *Gift shopping and delivery with occasion-based browsing*
 
-<a href="assets/posters/hadaya.png"><img src="assets/posters/hadaya.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/hadaya.png"><img src="assets/posters/hadaya.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `Firebase` `REST API`
@@ -366,14 +430,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(67, 233, 123, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+<div>
 
 ### 🛵 **Tasahel Express — تساهيل إكسبريس**
 *Courier app for assigning, running and closing delivery trips*
 
-<a href="assets/posters/tasahel.png"><img src="assets/posters/tasahel.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/tasahel.png"><img src="assets/posters/tasahel.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `MVVM` `Ktor` `Google Maps`
@@ -393,14 +457,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: linear-gradient(135deg, #5ee7df 0%, #b490ca 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(94, 231, 223, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+<div>
 
 ### 🚚 **Captain Rocket Cargo**
 *Driver app for freight pickups, loads and proof of delivery*
 
-<a href="assets/posters/rocketcargo.png"><img src="assets/posters/rocketcargo.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/rocketcargo.png"><img src="assets/posters/rocketcargo.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API` `Google Maps`
@@ -418,14 +482,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(161, 140, 209, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+<div>
 
 ### 🏗️ **Rakaez — ركائز**
 *Construction project tracking for clients following their build*
 
-<a href="assets/posters/rakaez.png"><img src="assets/posters/rakaez.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/rakaez.png"><img src="assets/posters/rakaez.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API` `Material Design 3`
@@ -445,14 +509,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #0E1A2E; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 📒 **BNB Dafatery — دفاتري**
 *Ledger app for merchants: customers, transactions and instalments*
 
-<a href="assets/posters/bnb.png"><img src="assets/posters/bnb.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/bnb.png"><img src="assets/posters/bnb.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -470,14 +534,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #2A1108; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 🧒 **Kedu — كيدو**
 *Educational game for kids with unlocking levels, in Arabic and English*
 
-<a href="assets/posters/kedu.png"><img src="assets/posters/kedu.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/kedu.png"><img src="assets/posters/kedu.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `Material 3` `REST API`
@@ -497,14 +561,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #2A0B1B; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 📰 **Egypt Online**
 *Classifieds and services — property, cars, electronics and more*
 
-<a href="assets/posters/egyptonline.png"><img src="assets/posters/egyptonline.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/egyptonline.png"><img src="assets/posters/egyptonline.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `Google Maps`
@@ -522,14 +586,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #231107; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 🛵 **ALAMRO Captain — العمرو كابتن**
 *Courier app: active orders, settlement and wallet*
 
-<a href="assets/posters/elamr.png"><img src="assets/posters/elamr.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/elamr.png"><img src="assets/posters/elamr.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -549,14 +613,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #2B1208; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 👟 **Farda Gomla — فردة جملة**
 *Wholesale footwear at factory prices*
 
-<a href="assets/posters/farda.png"><img src="assets/posters/farda.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/farda.png"><img src="assets/posters/farda.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -574,14 +638,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #1E0F2B; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 💄 **Marvel Cosmetics — مارفل**
 *Cosmetics and personal care store with original brands*
 
-<a href="assets/posters/marvel.png"><img src="assets/posters/marvel.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/marvel.png"><img src="assets/posters/marvel.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API`
@@ -601,14 +665,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #16200A; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 📱 **30 MIN — 30 دقيقة**
 *Phone accessories and repairs, promised in thirty minutes*
 
-<a href="assets/posters/min30.png"><img src="assets/posters/min30.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/min30.png"><img src="assets/posters/min30.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -626,14 +690,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #231E0F; border-radius: 20px; padding: 25px;">
+<div>
 
 ### ✂️ **Yalla Style Provider — يلا ستايل**
 *Barbershop provider app: bookings, services and earnings*
 
-<a href="assets/posters/yallastyle.png"><img src="assets/posters/yallastyle.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/yallastyle.png"><img src="assets/posters/yallastyle.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -653,14 +717,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #0B2617; border-radius: 20px; padding: 25px;">
+<div>
 
 ### ☕ **Itqan Horeca — إتقان**
 *HoReCa supply: coffee, beverages and raw materials for restaurants and hotels*
 
-<a href="assets/posters/itqaan.png"><img src="assets/posters/itqaan.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/itqaan.png"><img src="assets/posters/itqaan.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -678,14 +742,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #082316; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 📖 **Khatma — ختمة**
 *Offline Mushaf with voice recitation check, adhkar and prayer times*
 
-<a href="assets/posters/khatma.png"><img src="assets/posters/khatma.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/khatma.png"><img src="assets/posters/khatma.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `SQLDelight` `Ktor`
@@ -705,14 +769,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #2A0A0D; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 🍽️ **Emdad — إمداد**
 *Multi-restaurant marketplace with menus, delivery and flexible payment*
 
-<a href="assets/posters/emdad.png"><img src="assets/posters/emdad.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/emdad.png"><img src="assets/posters/emdad.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API`
@@ -730,14 +794,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #260A19; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 🚗 **SheDrive Driver — شي درايف**
 *Driver app for a women-only ride service*
 
-<a href="assets/posters/shedrive.png"><img src="assets/posters/shedrive.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/shedrive.png"><img src="assets/posters/shedrive.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `Google Maps`
@@ -757,14 +821,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #0B1A3C; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 🏗️ **Concrete Engineering Services**
 *Online engineering school: structural design courses and diplomas*
 
-<a href="assets/posters/concret.png"><img src="assets/posters/concret.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/concret.png"><img src="assets/posters/concret.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -782,14 +846,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #231107; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 🏭 **EGO — دليل المصانع والشركات**
 *Industrial directory of Egyptian factories, companies and suppliers*
 
-<a href="assets/posters/ego.png"><img src="assets/posters/ego.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/ego.png"><img src="assets/posters/ego.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API`
@@ -809,14 +873,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #16200A; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 🏋️ **G4FIT**
 *Gym memberships and personal training with session packages*
 
-<a href="assets/posters/g4fit.png"><img src="assets/posters/g4fit.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/g4fit.png"><img src="assets/posters/g4fit.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -834,14 +898,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #261D0E; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 🛵 **Makuk — مكوك**
 *Restaurants and markets in one app, with sizes, extras and offers*
 
-<a href="assets/posters/makuk.png"><img src="assets/posters/makuk.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/makuk.png"><img src="assets/posters/makuk.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -861,14 +925,14 @@ const ahmed = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #2A1408; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 📚 **MaxWell — ماكسويل**
 *Learning platform for students and parents, with attendance tracking*
 
-<a href="assets/posters/maxwell.png"><img src="assets/posters/maxwell.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/maxwell.png"><img src="assets/posters/maxwell.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Java` `Jetpack Compose` `REST API`
@@ -886,14 +950,14 @@ const ahmed = {
 </div>
 
 </td>
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
-<div style="background: #08252C; border-radius: 20px; padding: 25px;">
+<div>
 
 ### 🎓 **Ways**
 *Learning platform with video lessons, summaries and practice*
 
-<a href="assets/posters/ways.png"><img src="assets/posters/ways.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/ways.png"><img src="assets/posters/ways.png" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -912,11 +976,38 @@ const ahmed = {
 
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+
+<div>
+
+### 🛵 **Wasela Captain — كابتن وسيلة**
+*Courier app: area orders, order detail and a wallet with clear collection*
+
+<a href="assets/posters/wasela.png"><img src="assets/posters/wasela.png" width="62%"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `Google Maps`
+
+**✨ Key Features:**  
+🔔 Instant alert on every new order in your area  
+📍 Pickup and drop-off points with customer details  
+💵 Collection breakdown before the trip starts  
+👛 Wallet, weekly earnings and a debt ceiling  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projectegy.deliveryegyptcaptain)
+
+</div>
+
+</td>
+</tr>
 </table>
 
 <br>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+<div>
 
 [![View All Projects](https://img.shields.io/badge/🚀%20Explore%20Complete%20Portfolio-white?style=for-the-badge&logoColor=667eea&logo=github)](https://github.com/ahmedabdalharith?tab=repositories)
 
@@ -932,20 +1023,20 @@ const ahmed = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%">
 
-<table cellpadding="15" style="width: 100%;">
+<table cellpadding="15">
 <tr>
 <td width="60%" align="center">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdalharith&layout=compact&theme=dark&hide_border=true&bg_color=45,667eea,764ba2&title_color=FFFFFF&text_color=FFFFFF&langs_count=8&border_radius=15)
 
 </div>
 
 </td>
-<td width="40%" align="left" style="padding-left: 25px;">
+<td width="40%" align="left">
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 **🎯 Language Expertise:**
 
@@ -980,17 +1071,17 @@ secondary:
 
 <br><br>
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px; box-shadow: 0 15px 35px rgba(240, 147, 251, 0.3);">
+<div>
 
 ### 🏆 **Development Achievements & Metrics**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" style="float: right; margin-left: 20px;">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<table cellpadding="20" style="width: 100%;">
+<table cellpadding="20">
 <tr>
 <td width="25%" align="center">
 
-<div style="background: rgba(255, 255, 255, 0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
+<div>
 
 **📦 Repositories**
 ### 30+
@@ -1001,7 +1092,7 @@ secondary:
 </td>
 <td width="25%" align="center">
 
-<div style="background: rgba(255, 255, 255, 0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
+<div>
 
 **⭐ Total Stars**
 ### 75+
@@ -1012,7 +1103,7 @@ secondary:
 </td>
 <td width="25%" align="center">
 
-<div style="background: rgba(255, 255, 255, 0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
+<div>
 
 **🔄 Contributions**
 ### 1200+
@@ -1023,7 +1114,7 @@ secondary:
 </td>
 <td width="25%" align="center">
 
-<div style="background: rgba(255, 255, 255, 0.2); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
+<div>
 
 **📱 Published Apps**
 ### 4+
@@ -1050,10 +1141,10 @@ secondary:
 
 <div align="center">
 
-<div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 5px; border-radius: 15px; margin: 20px 0;">
-<div style="background: #1a1a2e; padding: 20px; border-radius: 10px;">
+<div>
+<div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150" style="float: left; margin-right: 20px;">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
 
 ```
 2023 ████████████░░░░ 75% (Learning & Foundation)
@@ -1081,13 +1172,13 @@ secondary:
 
 <table>
 <tr>
-<td width="33%" align="center" style="padding: 25px;">
+<td width="33%" align="center">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 ### 🚀 **Currently Building**
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80" style="margin: 10px 0;">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80">
 
 <div align="left">
 
@@ -1105,13 +1196,13 @@ active_projects:
 </div>
 
 </td>
-<td width="33%" align="center" style="padding: 25px;">
+<td width="33%" align="center">
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 ### 📚 **Learning & Expanding**
 
-<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="80" style="margin: 10px 0;">
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="80">
 
 <div align="left">
 
@@ -1129,13 +1220,13 @@ skills_development:
 </div>
 
 </td>
-<td width="33%" align="center" style="padding: 25px;">
+<td width="33%" align="center">
 
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 ### 🎯 **2025 Goals & Vision**
 
-<img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="80" style="margin: 10px 0;">
+<img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="80">
 
 <div align="left">
 
@@ -1158,12 +1249,12 @@ objectives:
 
 ### 🛤️ **Professional Evolution Path**
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 5px; border-radius: 15px; margin: 25px 0;">
-<div style="background: #1a1a2e; padding: 25px; border-radius: 10px;">
+<div>
+<div>
 
 **Career Development Roadmap:**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" style="float: right;">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 
 ```
 🚀 Mobile Developer ─────► 📱 Mobile Architect
@@ -1184,7 +1275,7 @@ objectives:
 
 <div align="center">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedabdalharith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
@@ -1192,7 +1283,7 @@ objectives:
 
 ### 📊 **Contribution Activity**
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedabdalharith&theme=tokyo-night&hide_border=true&bg_color=4facfe&color=ffffff&line=00f2fe&point=ffffff&area=true&border_radius=15)
 
@@ -1212,9 +1303,9 @@ objectives:
 
 <table>
 <tr>
-<td width="25%" align="center" style="padding: 20px;">
+<td width="25%" align="center">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); transition: transform 0.3s ease;">
+<div>
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80"/>
 
@@ -1227,9 +1318,9 @@ objectives:
 </div>
 
 </td>
-<td width="25%" align="center" style="padding: 20px;">
+<td width="25%" align="center">
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); transition: transform 0.3s ease;">
+<div>
 
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="80"/>
 
@@ -1242,9 +1333,9 @@ objectives:
 </div>
 
 </td>
-<td width="25%" align="center" style="padding: 20px;">
+<td width="25%" align="center">
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); transition: transform 0.3s ease;">
+<div>
 
 <img src="https://user-images.githubusercontent.com/74038190/219923828-127f21c6-808e-4e4e-92fe-e4b0c5a87819.gif" width="80"/>
 
@@ -1257,9 +1348,9 @@ objectives:
 </div>
 
 </td>
-<td width="25%" align="center" style="padding: 20px;">
+<td width="25%" align="center">
 
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); transition: transform 0.3s ease;">
+<div>
 
 <img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="80"/>
 
@@ -1277,9 +1368,9 @@ objectives:
 
 ### 💰 **Professional Investment Rates**
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 25px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150" style="float: right; margin-left: 20px;">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
 
 | **Service Category** | **Rate Range** | **Expertise Level** | **Delivery Quality** |
 |:---:|:---:|:---:|:---:|
@@ -1304,7 +1395,7 @@ objectives:
 
 ### 🌐 **Professional Network & Contact**
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 <a href="https://www.linkedin.com/in/ahmed-ibrahim-466a05287" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px_4px_8px_rgba(0,119,181,0.3)" alt="LinkedIn"/>
@@ -1328,29 +1419,29 @@ objectives:
 
 <table>
 <tr>
-<td align="center" style="padding: 20px;">
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<td align="center">
+<div>
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="60"/><br>
 <strong>Full-Time Positions</strong><br>
 <small>Senior Mobile & Backend Roles</small>
 </div>
 </td>
-<td align="center" style="padding: 20px;">
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<td align="center">
+<div>
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="60"/><br>
 <strong>Freelance Projects</strong><br>
 <small>Custom Mobile & Backend Apps</small>
 </div>
 </td>
-<td align="center" style="padding: 20px;">
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<td align="center">
+<div>
 <img src="https://user-images.githubusercontent.com/74038190/219923828-127f21c6-808e-4e4e-92fe-e4b0c5a87819.gif" width="60"/><br>
 <strong>Open Source</strong><br>
 <small>Community Contributions</small>
 </div>
 </td>
-<td align="center" style="padding: 20px;">
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<td align="center">
+<div>
 <img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="60"/><br>
 <strong>Mentoring</strong><br>
 <small>Code Reviews & Guidance</small>
@@ -1361,10 +1452,10 @@ objectives:
 
 ### 🎯 **What I'm Looking For:**
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 5px; border-radius: 15px; margin: 25px 0;">
-<div style="background: #1a1a2e; padding: 25px; border-radius: 10px;">
+<div>
+<div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" style="float: right; margin-left: 20px;">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 
 - **🚀 Innovative Mobile Projects** pushing boundaries of technology
 - **🤝 Collaborative Teams** valuing clean code and best practices  
@@ -1383,8 +1474,8 @@ objectives:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=&fontSize=0" width="100%">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 5px; border-radius: 20px; margin: 25px 0;">
-<div style="background: #1a1a2e; padding: 30px; border-radius: 15px;">
+<div>
+<div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💫+%22Great+software+isn't+just+code+-+it's+poetry+in+logic%22;☕+Developer's+Philosophy%3A+Debug+with+coffee%2C+code+with+music;🌟+Fun+Fact%3A+100%2C000%2B+lines+of+code+this+year!" alt="Typing SVG" />
 
@@ -1393,7 +1484,7 @@ objectives:
 </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedabdalharith&color=667eea&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/ahmedabdalharith?color=764ba2&style=for-the-badge&label=GitHub+Followers)
@@ -1403,7 +1494,7 @@ objectives:
 
 <br>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
@@ -1411,7 +1502,7 @@ objectives:
 
 <br>
 
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; border: 3px solid #667eea; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div>
 
 **🎯 Current Status:** Actively seeking opportunities | Open for freelance | Available for consultations
 
