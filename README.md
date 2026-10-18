@@ -474,23 +474,23 @@ const ahmed = {
 
 <div style="background: #2A1108; border-radius: 20px; padding: 25px;">
 
-### 🧭 **Dalil — دليل**
-*Local services directory: restaurants, clinics, shops and workshops*
+### 🧒 **Kedu — كيدو**
+*Educational game for kids with unlocking levels, in Arabic and English*
 
-<a href="assets/posters/dalil.png"><img src="assets/posters/dalil.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+<a href="assets/posters/kedu.png"><img src="assets/posters/kedu.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
-`Java` `Android SDK` `XML Layouts` `REST API`
+`Kotlin` `Jetpack Compose` `Material 3` `REST API`
 
 **✨ Key Features:**  
-🗂️ Categories covering the whole city  
-📍 City and district filtering  
-☎️ Phone, WhatsApp and location per listing  
-🎉 Current offers from each provider  
+🔓 Levels that unlock one after another  
+🎨 Colour, sort and learn activities  
+🏆 Points and a leaderboard  
+🌍 Arabic and English content  
 
 <br>
 
-[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.dalil)
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=game.projectegy.kedu)
 
 </div>
 
@@ -647,6 +647,110 @@ const ahmed = {
 <br>
 
 [![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.yallastyle_provider)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #0B2617; border-radius: 20px; padding: 25px;">
+
+### ☕ **Itqan Horeca — إتقان**
+*HoReCa supply: coffee, beverages and raw materials for restaurants and hotels*
+
+<a href="assets/posters/itqaan.png"><img src="assets/posters/itqaan.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+🏷️ Shop by brand — Lavazza, Monin, Solo and more  
+⚖️ Pack sizes with wholesale pricing and stock  
+🎁 Daily offers and a points balance  
+🧾 Order history and saved addresses  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projectegy.itqaanapp)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #082316; border-radius: 20px; padding: 25px;">
+
+### 📖 **Khatma — ختمة**
+*Offline Mushaf with voice recitation check, adhkar and prayer times*
+
+<a href="assets/posters/khatma.png"><img src="assets/posters/khatma.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Compose Multiplatform` `SQLDelight` `Ktor`
+
+**✨ Key Features:**  
+📵 Full Mushaf that works with no internet  
+🎙️ Recite aloud and the app follows word by word  
+🤲 Morning and evening adhkar  
+🕌 Prayer times and adhan for your location  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.khatma)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #2A0A0D; border-radius: 20px; padding: 25px;">
+
+### 🍽️ **Emdad — إمداد**
+*Multi-restaurant marketplace with menus, delivery and flexible payment*
+
+<a href="assets/posters/emdad.png"><img src="assets/posters/emdad.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Java` `Android SDK` `XML Layouts` `REST API`
+
+**✨ Key Features:**  
+🍔 Many restaurants and stores in one app  
+📸 Menus with photos, descriptions and prices  
+⭐ Ratings, offers and best sellers  
+💳 Card, e-wallet or cash on delivery  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projectegy.emdad)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #260A19; border-radius: 20px; padding: 25px;">
+
+### 🚗 **SheDrive Driver — شي درايف**
+*Driver app for a women-only ride service*
+
+<a href="assets/posters/shedrive.png"><img src="assets/posters/shedrive.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `Google Maps`
+
+**✨ Key Features:**  
+🟢 Online, scheduled and regular ride modes  
+🗺️ Trip log with distance and fare per ride  
+📊 Weekly earnings report  
+👛 Wallet with payout requests  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projectegy.shedrivedriver)
 
 </div>
 
