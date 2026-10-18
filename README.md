@@ -212,23 +212,23 @@ const ahmed = {
 
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(240, 147, 251, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
 
-### 📖 **Al-Rowadh Education**
-*Islamic educational app with structured learning curriculum*
+### 🛒 **Al Asdiqaa — الأصدقاء**
+*Online supermarket with branch-aware stock and home delivery*
 
-<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100" style="margin: 10px 0;">
+<a href="assets/posters/asdiqaa.png"><img src="assets/posters/asdiqaa.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
-`Kotlin` `XML` `Room Database` `MVP` `Material Design 3`
+`Java` `Android SDK` `XML Layouts` `REST API`
 
 **✨ Key Features:**  
-📱 Beautiful, intuitive interface  
-🔖 Smart bookmarking system  
-📊 Learning progress dashboard  
-🌙 Dark mode support  
+🏬 Pick your nearest branch  
+🧺 Categories with real product photos  
+🎟️ Cart, discount codes and delivery fees  
+🚚 Order tracking to the door  
 
 <br>
 
-[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.eduction_alrowadh)
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.elasdiqa)
 
 </div>
 
@@ -439,6 +439,214 @@ const ahmed = {
 <br>
 
 [![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.rakaez.client)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #0E1A2E; border-radius: 20px; padding: 25px;">
+
+### 📒 **BNB Dafatery — دفاتري**
+*Ledger app for merchants: customers, transactions and instalments*
+
+<a href="assets/posters/bnb.png"><img src="assets/posters/bnb.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+💰 Live balance with every credit and debit  
+📆 Instalment schedule and arrears per customer  
+🧾 Shareable statement per customer  
+📊 Totals for paid, due and outstanding  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.bnb)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #2A1108; border-radius: 20px; padding: 25px;">
+
+### 🧭 **Dalil — دليل**
+*Local services directory: restaurants, clinics, shops and workshops*
+
+<a href="assets/posters/dalil.png"><img src="assets/posters/dalil.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Java` `Android SDK` `XML Layouts` `REST API`
+
+**✨ Key Features:**  
+🗂️ Categories covering the whole city  
+📍 City and district filtering  
+☎️ Phone, WhatsApp and location per listing  
+🎉 Current offers from each provider  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.dalil)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #2A0B1B; border-radius: 20px; padding: 25px;">
+
+### 📰 **Egypt Online**
+*Classifieds and services — property, cars, electronics and more*
+
+<a href="assets/posters/egyptonline.png"><img src="assets/posters/egyptonline.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Java` `Android SDK` `XML Layouts` `Google Maps`
+
+**✨ Key Features:**  
+🏷️ Property, cars, devices, fashion and pets  
+📸 Full listing pages with photos and distance  
+🗺️ Map location and direct contact  
+👤 Personal or business accounts  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.egyptonline)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #231107; border-radius: 20px; padding: 25px;">
+
+### 🛵 **ALAMRO Captain — العمرو كابتن**
+*Courier app: active orders, settlement and wallet*
+
+<a href="assets/posters/elamr.png"><img src="assets/posters/elamr.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+📦 Active orders with status changes  
+💵 Financial settlement and commission  
+👛 Courier wallet and collection barcode  
+🧾 Per-trip earnings history  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projectegy.elamr_captain)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #2B1208; border-radius: 20px; padding: 25px;">
+
+### 👟 **Farda Gomla — فردة جملة**
+*Wholesale footwear at factory prices*
+
+<a href="assets/posters/farda.png"><img src="assets/posters/farda.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+👞 Women's, men's and kids' catalogues  
+📐 Sizes and colours per model  
+💵 Clear per-piece and per-carton pricing  
+🚚 Order tracking to delivery  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.farda)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #1E0F2B; border-radius: 20px; padding: 25px;">
+
+### 💄 **Marvel Cosmetics — مارفل**
+*Cosmetics and personal care store with original brands*
+
+<a href="assets/posters/marvel.png"><img src="assets/posters/marvel.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Java` `Android SDK` `XML Layouts` `REST API`
+
+**✨ Key Features:**  
+💇 Hair care, skin care, make-up and fragrance  
+🧴 Product pages with size, description and price  
+🎁 Bundles and discounted sets  
+🛒 Cart, favourites and order history  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.marvel)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #16200A; border-radius: 20px; padding: 25px;">
+
+### 📱 **30 MIN — 30 دقيقة**
+*Phone accessories and repairs, promised in thirty minutes*
+
+<a href="assets/posters/min30.png"><img src="assets/posters/min30.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+🔌 Cases, chargers, audio and power banks  
+📋 Full specs with before/after pricing  
+🧰 Repair service booking  
+💳 Card, wallet or cash on delivery  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.shasha_bagha)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #231E0F; border-radius: 20px; padding: 25px;">
+
+### ✂️ **Yalla Style Provider — يلا ستايل**
+*Barbershop provider app: bookings, services and earnings*
+
+<a href="assets/posters/yallastyle.png"><img src="assets/posters/yallastyle.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+📅 Daily schedule with confirm / reject  
+💈 Service catalogue with per-service pricing  
+🏪 Shop profile and working hours  
+👛 Earnings wallet  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.yallastyle_provider)
 
 </div>
 
