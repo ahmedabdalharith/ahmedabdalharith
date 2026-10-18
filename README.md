@@ -912,33 +912,6 @@ const ahmed = {
 
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center" style="padding: 20px;">
-
-<div style="background: #231F0E; border-radius: 20px; padding: 25px;">
-
-### 🧾 **Rafraf Merchant — رفرف تاجر**
-*Merchant app for Rafraf: sales log, totals and wallet*
-
-<a href="assets/posters/rafraf.png"><img src="assets/posters/rafraf.png" width="60%" style="margin: 10px 0; border-radius: 12px;"></a>
-
-**🔧 Technology Stack:**  
-`Kotlin` `Jetpack Compose` `MVVM` `REST API`
-
-**✨ Key Features:**  
-🧾 Every sale with its number, address, value and status  
-📊 Delivered, preparing, in transit and total — at a glance  
-📈 Sales reports and wallet balance  
-🗑️ Current and deleted sales kept apart  
-
-<br>
-
-[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.taget_rafraf)
-
-</div>
-
-</td>
-</tr>
 </table>
 
 <br>
