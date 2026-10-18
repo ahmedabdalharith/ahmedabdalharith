@@ -756,6 +756,189 @@ const ahmed = {
 
 </td>
 </tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #0B1A3C; border-radius: 20px; padding: 25px;">
+
+### 🏗️ **Concrete Engineering Services**
+*Online engineering school: structural design courses and diplomas*
+
+<a href="assets/posters/concret.png"><img src="assets/posters/concret.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+🎓 Courses, diplomas and bundled packages  
+🧱 Video lessons with 3D models and real projects  
+📋 Diploma stages with hours and content  
+💬 Enrol in-app or over WhatsApp  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.concret)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #231107; border-radius: 20px; padding: 25px;">
+
+### 🏭 **EGO — دليل المصانع والشركات**
+*Industrial directory of Egyptian factories, companies and suppliers*
+
+<a href="assets/posters/ego.png"><img src="assets/posters/ego.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Java` `Android SDK` `XML Layouts` `REST API`
+
+**✨ Key Features:**  
+🏷️ Factories, companies, spare parts and equipment  
+🗂️ Detailed sub-categories per industry  
+📞 Call, SMS, chat or WhatsApp from the listing  
+📍 Listings on a map with follower counts  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=projectegy.ego)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #16200A; border-radius: 20px; padding: 25px;">
+
+### 🏋️ **G4FIT**
+*Gym memberships and personal training with session packages*
+
+<a href="assets/posters/g4fit.png"><img src="assets/posters/g4fit.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+🎟️ 6, 12 or 20 session packages with pricing  
+📅 Book in three steps — trainer, date, slot  
+📈 Weight and body measurement tracking  
+🔔 Club offers and booking reminders  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projecteg.g4fit)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #261D0E; border-radius: 20px; padding: 25px;">
+
+### 🛵 **Makuk — مكوك**
+*Restaurants and markets in one app, with sizes, extras and offers*
+
+<a href="assets/posters/makuk.png"><img src="assets/posters/makuk.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+🍕 Restaurants and markets grouped by category  
+📏 Pick size and extras before adding to cart  
+🏷️ Daily offers and discounts  
+🗺️ Discover what is open nearby  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projectegy.makuk)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #2A1408; border-radius: 20px; padding: 25px;">
+
+### 📚 **MaxWell — ماكسويل**
+*Learning platform for students and parents, with attendance tracking*
+
+<a href="assets/posters/maxwell.png"><img src="assets/posters/maxwell.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Java` `Jetpack Compose` `REST API`
+
+**✨ Key Features:**  
+🎥 Lessons, PDF summaries and per-chapter exams  
+👨‍👩‍👦 Separate student and parent accounts  
+🗓️ Attendance page and full records  
+📊 Visual stats for teachers, courses and exams  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.maxwell)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: #08252C; border-radius: 20px; padding: 25px;">
+
+### 🎓 **Ways**
+*Learning platform with video lessons, summaries and practice*
+
+<a href="assets/posters/ways.png"><img src="assets/posters/ways.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+📖 Watch the lesson, read the summary, practise on it  
+👁️ View counts and course duration per chapter  
+🗓️ Attendance page and records  
+🔐 Password change and in-app support  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.elzatoona)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" style="padding: 20px;">
+
+<div style="background: #231F0E; border-radius: 20px; padding: 25px;">
+
+### 🧾 **Rafraf Merchant — رفرف تاجر**
+*Merchant app for Rafraf: sales log, totals and wallet*
+
+<a href="assets/posters/rafraf.png"><img src="assets/posters/rafraf.png" width="60%" style="margin: 10px 0; border-radius: 12px;"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API`
+
+**✨ Key Features:**  
+🧾 Every sale with its number, address, value and status  
+📊 Delivered, preparing, in transit and total — at a glance  
+📈 Sales reports and wallet balance  
+🗑️ Current and deleted sales kept apart  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.taget_rafraf)
+
+</div>
+
+</td>
+</tr>
 </table>
 
 <br>
