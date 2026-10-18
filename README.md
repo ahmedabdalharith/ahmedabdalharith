@@ -288,6 +288,162 @@ const ahmed = {
 
 </td>
 </tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(48, 207, 208, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+
+### 🏥 **Medi Care — ميدي كير**
+*Medical care membership with discounts across partner clinics and labs*
+
+<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/medicare.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+
+**🔧 Technology Stack:**  
+`Java` `Android SDK` `XML Layouts` `REST API` `Material Design`
+
+**✨ Key Features:**  
+🏷️ Discounts of up to 70% on partner services  
+🗺️ Governorate and district coverage picker  
+👤 Membership registration & renewal  
+👁️ Guest browsing before sign-up  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projecteg.medicare)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: linear-gradient(135deg, #f6d365 0%, #fda085 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(253, 160, 133, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+
+### 🛠️ **Home Fix — هوم فيكس**
+*On-demand home maintenance: request a technician, track the visit*
+
+<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/homefix.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+
+**🔧 Technology Stack:**  
+`Kotlin` `Compose Multiplatform` `MVVM` `Ktor` `Koin`
+
+**✨ Key Features:**  
+🧰 Service catalog by trade  
+📅 Visit scheduling & status tracking  
+📍 Address book with map selection  
+🌐 Arabic / English with full RTL  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projectegy.homefix)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(255, 154, 158, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+
+### 🎁 **Hadaya — هدايا**
+*Gift shopping and delivery with occasion-based browsing*
+
+<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/hadaya.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+
+**🔧 Technology Stack:**  
+`Java` `Android SDK` `XML Layouts` `Firebase` `REST API`
+
+**✨ Key Features:**  
+🎀 Catalog organised by occasion  
+🛒 Cart with gift notes  
+🔔 Firebase push notifications  
+🚚 Order tracking to delivery  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projecteg.hadaya)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(67, 233, 123, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+
+### 🛵 **Tasahel Express — تساهيل إكسبريس**
+*Courier app for assigning, running and closing delivery trips*
+
+<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/tasahel.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+
+**🔧 Technology Stack:**  
+`Kotlin` `Compose Multiplatform` `MVVM` `Ktor` `Google Maps`
+
+**✨ Key Features:**  
+📦 Trip queue with accept / reject  
+🗺️ Navigation to pickup and drop-off  
+💵 Cash-on-delivery reconciliation  
+📈 Earnings and trip history  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projectegy.tasahel_captain)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: linear-gradient(135deg, #5ee7df 0%, #b490ca 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(94, 231, 223, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+
+### 🚚 **Captain Rocket Cargo**
+*Driver app for freight pickups, loads and proof of delivery*
+
+<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/rocketcargo.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+
+**🔧 Technology Stack:**  
+`Java` `Android SDK` `XML Layouts` `REST API` `Google Maps`
+
+**✨ Key Features:**  
+🧾 Shipment list with load details  
+📍 Live route to pickup and delivery  
+📷 Proof-of-delivery capture  
+🕒 Status updates per leg  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.captainrocketcargo)
+
+</div>
+
+</td>
+<td width="50%" align="center" style="padding: 20px;">
+
+<div style="background: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(161, 140, 209, 0.3); transform: perspective(1000px) rotateX(2deg); transition: all 0.3s ease;">
+
+### 🏗️ **Rakaez — ركائز**
+*Construction project tracking for clients following their build*
+
+<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/rakaez.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+
+**🔧 Technology Stack:**  
+`Kotlin` `Jetpack Compose` `MVVM` `REST API` `Material Design 3`
+
+**✨ Key Features:**  
+📊 Stage-by-stage progress view  
+🖼️ Site photo updates per milestone  
+📄 Documents and contract access  
+🔔 Progress notifications  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.rakaez.client)
+
+</div>
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -297,6 +453,31 @@ const ahmed = {
 [![View All Projects](https://img.shields.io/badge/🚀%20Explore%20Complete%20Portfolio-white?style=for-the-badge&logoColor=667eea&logo=github)](https://github.com/ahmedabdalharith?tab=repositories)
 
 </div>
+
+</div>
+
+---
+
+## 🖼️ App Posters
+
+<div align="center">
+
+Each poster uses real in-app screens — no stock mockups. Click any poster to open it full size.
+
+<table>
+<tr>
+<td width="25%" align="center"><a href="assets/posters/medicare.png"><img src="assets/posters/medicare.png" width="100%"></a><br><b>Medi Care</b><br><sub>رعاية طبية</sub></td>
+<td width="25%" align="center"><a href="assets/posters/homefix.png"><img src="assets/posters/homefix.png" width="100%"></a><br><b>Home Fix</b><br><sub>صيانة منزلية</sub></td>
+<td width="25%" align="center"><a href="assets/posters/hadaya.png"><img src="assets/posters/hadaya.png" width="100%"></a><br><b>Hadaya</b><br><sub>متجر هدايا</sub></td>
+<td width="25%" align="center"><a href="assets/posters/tasahel.png"><img src="assets/posters/tasahel.png" width="100%"></a><br><b>Tasahel Express</b><br><sub>تطبيق المندوب</sub></td>
+</tr>
+<tr>
+<td width="25%" align="center"><a href="assets/posters/rocketcargo.png"><img src="assets/posters/rocketcargo.png" width="100%"></a><br><b>Captain Rocket Cargo</b><br><sub>شحن</sub></td>
+<td width="25%" align="center"><a href="assets/posters/rakaez.png"><img src="assets/posters/rakaez.png" width="100%"></a><br><b>Rakaez</b><br><sub>متابعة مشاريع</sub></td>
+<td width="25%" align="center"><a href="assets/posters/lucinda.png"><img src="assets/posters/lucinda.png" width="100%"></a><br><b>Lucinda Oasis</b><br><sub>مطعم وطلبات</sub></td>
+<td width="25%" align="center"><a href="assets/posters/tastravel.png"><img src="assets/posters/tastravel.png" width="100%"></a><br><b>TAS Travel</b><br><sub>سياحة ورحلات</sub></td>
+</tr>
+</table>
 
 </div>
 
