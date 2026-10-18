@@ -15,7 +15,7 @@
 <a href="#-lets-connect--build-the-future-together">Contact</a>
 </p>
 
-<p><b>29 apps published on Google Play</b> — delivery, e-commerce, healthcare, education, logistics and field services.</p>
+<p><b>31 apps published on Google Play</b> — delivery, e-commerce, healthcare, education, logistics and field services.</p>
 
 </div>
 
@@ -199,6 +199,8 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 
 **🛵 Delivery & logistics**  
 [Tasahel Express](https://play.google.com/store/apps/details?id=apps.projectegy.tasahel_captain) ·
+[Wasela](https://play.google.com/store/apps/details?id=apps.projectegy.wasela_client) ·
+[Wasela Store](https://play.google.com/store/apps/details?id=apps.projecteg.waselastore) ·
 [Wasela Captain](https://play.google.com/store/apps/details?id=apps.projectegy.deliveryegyptcaptain) ·
 [ALAMRO Captain](https://play.google.com/store/apps/details?id=apps.projectegy.elamr_captain) ·
 [Rocket Cargo](https://play.google.com/store/apps/details?id=apps.captainrocketcargo) ·
@@ -971,6 +973,58 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 <br>
 
 [![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.elzatoona)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<div>
+
+### 📦 **Wasela — وسيلة**
+*Order anything: purchases, parcels, errands and rides, with captains bidding on your price*
+
+<a href="assets/posters/waselaclient.png"><img src="assets/posters/waselaclient.png" width="100%"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Compose Multiplatform` `Ktor` `Google Maps`
+
+**✨ Key Features:**  
+🧩 Four services in one app — anything, shopping, parcels, rides  
+💸 Captains bid and you pick the offer that suits you  
+👛 E-wallet, pay all or part from your balance  
+📍 Live order tracking with pickup and drop-off  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projectegy.wasela_client)
+
+</div>
+
+</td>
+<td width="50%" align="center">
+
+<div>
+
+### 🏪 **Wasela Store — متجر وسيلة**
+*A delivery fleet on demand for your shop, with per-order tracking and accounts*
+
+<a href="assets/posters/waselastore.png"><img src="assets/posters/waselastore.png" width="100%"></a>
+
+**🔧 Technology Stack:**  
+`Kotlin` `Compose Multiplatform` `Ktor` `REST API`
+
+**✨ Key Features:**  
+🛵 Request a courier for a shop order in one step  
+📋 Current and past orders with totals and status  
+🧮 Dues, commissions and transactions in one place  
+🔔 Alerts the moment a courier accepts  
+
+<br>
+
+[![Play Store](https://img.shields.io/badge/Download_on-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=apps.projecteg.waselastore)
 
 </div>
 
