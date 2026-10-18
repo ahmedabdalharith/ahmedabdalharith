@@ -266,7 +266,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🎓 **Academoz - Educational Platform**
 *Comprehensive learning platform connecting students with quality education*
 
-<a href="assets/posters/academoz.png"><img src="assets/posters/academoz.png" width="100%"></a>
+<a href="assets/posters/academoz.jpg"><img src="assets/posters/academoz.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Java` `Jetpack Compose` `MVVM` `Firebase` `Material Design 3`
@@ -291,7 +291,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🛒 **Al Asdiqaa — الأصدقاء**
 *Online supermarket with branch-aware stock and home delivery*
 
-<a href="assets/posters/asdiqaa.png"><img src="assets/posters/asdiqaa.png" width="100%"></a>
+<a href="assets/posters/asdiqaa.jpg"><img src="assets/posters/asdiqaa.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API`
@@ -318,7 +318,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🍽️ **Lucinda Oasis Restaurant**
 *Modern restaurant ordering app with seamless payment integration*
 
-<a href="assets/posters/lucinda.png"><img src="assets/posters/lucinda.png" width="100%"></a>
+<a href="assets/posters/lucinda.jpg"><img src="assets/posters/lucinda.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `Firebase` `Stripe Payment`
@@ -344,7 +344,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### ✈️ **TAS Travel - Flight Booking**
 *Complete travel booking solution with real-time flight search*
 
-<a href="assets/posters/tastravel.png"><img src="assets/posters/tastravel.png" width="100%"></a>
+<a href="assets/posters/tastravel.jpg"><img src="assets/posters/tastravel.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `MVVM` `REST API` `Ktor`
@@ -372,7 +372,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🏥 **Medi Care — ميدي كير**
 *Medical care membership with discounts across partner clinics and labs*
 
-<a href="assets/posters/medicare.png"><img src="assets/posters/medicare.png" width="100%"></a>
+<a href="assets/posters/medicare.jpg"><img src="assets/posters/medicare.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API` `Material Design`
@@ -397,7 +397,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🛠️ **Home Fix — هوم فيكس**
 *On-demand home maintenance: request a technician, track the visit*
 
-<a href="assets/posters/homefix.png"><img src="assets/posters/homefix.png" width="100%"></a>
+<a href="assets/posters/homefix.jpg"><img src="assets/posters/homefix.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `MVVM` `Ktor` `Koin`
@@ -424,7 +424,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🎁 **Hadaya — هدايا**
 *Gift shopping and delivery with occasion-based browsing*
 
-<a href="assets/posters/hadaya.png"><img src="assets/posters/hadaya.png" width="100%"></a>
+<a href="assets/posters/hadaya.jpg"><img src="assets/posters/hadaya.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `Firebase` `REST API`
@@ -449,7 +449,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🛵 **Tasahel Express — تساهيل إكسبريس**
 *Courier app for assigning, running and closing delivery trips*
 
-<a href="assets/posters/tasahel.png"><img src="assets/posters/tasahel.png" width="100%"></a>
+<a href="assets/posters/tasahel.jpg"><img src="assets/posters/tasahel.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `MVVM` `Ktor` `Google Maps`
@@ -476,7 +476,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🚚 **Captain Rocket Cargo**
 *Driver app for freight pickups, loads and proof of delivery*
 
-<a href="assets/posters/rocketcargo.png"><img src="assets/posters/rocketcargo.png" width="100%"></a>
+<a href="assets/posters/rocketcargo.jpg"><img src="assets/posters/rocketcargo.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API` `Google Maps`
@@ -501,7 +501,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🏗️ **Rakaez — ركائز**
 *Construction project tracking for clients following their build*
 
-<a href="assets/posters/rakaez.png"><img src="assets/posters/rakaez.png" width="100%"></a>
+<a href="assets/posters/rakaez.jpg"><img src="assets/posters/rakaez.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API` `Material Design 3`
@@ -528,7 +528,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 📒 **BNB Dafatery — دفاتري**
 *Ledger app for merchants: customers, transactions and instalments*
 
-<a href="assets/posters/bnb.png"><img src="assets/posters/bnb.png" width="100%"></a>
+<a href="assets/posters/bnb.jpg"><img src="assets/posters/bnb.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -553,7 +553,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🧒 **Kedu — كيدو**
 *Educational game for kids with unlocking levels, in Arabic and English*
 
-<a href="assets/posters/kedu.png"><img src="assets/posters/kedu.png" width="100%"></a>
+<a href="assets/posters/kedu.jpg"><img src="assets/posters/kedu.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `Material 3` `REST API`
@@ -580,7 +580,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 📰 **Egypt Online**
 *Classifieds and services — property, cars, electronics and more*
 
-<a href="assets/posters/egyptonline.png"><img src="assets/posters/egyptonline.png" width="100%"></a>
+<a href="assets/posters/egyptonline.jpg"><img src="assets/posters/egyptonline.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `Google Maps`
@@ -605,7 +605,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🛵 **ALAMRO Captain — العمرو كابتن**
 *Courier app: active orders, settlement and wallet*
 
-<a href="assets/posters/elamr.png"><img src="assets/posters/elamr.png" width="100%"></a>
+<a href="assets/posters/elamr.jpg"><img src="assets/posters/elamr.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -632,7 +632,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 👟 **Farda Gomla — فردة جملة**
 *Wholesale footwear at factory prices*
 
-<a href="assets/posters/farda.png"><img src="assets/posters/farda.png" width="100%"></a>
+<a href="assets/posters/farda.jpg"><img src="assets/posters/farda.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -657,7 +657,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 💄 **Marvel Cosmetics — مارفل**
 *Cosmetics and personal care store with original brands*
 
-<a href="assets/posters/marvel.png"><img src="assets/posters/marvel.png" width="100%"></a>
+<a href="assets/posters/marvel.jpg"><img src="assets/posters/marvel.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API`
@@ -684,7 +684,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 📱 **30 MIN — 30 دقيقة**
 *Phone accessories and repairs, promised in thirty minutes*
 
-<a href="assets/posters/min30.png"><img src="assets/posters/min30.png" width="100%"></a>
+<a href="assets/posters/min30.jpg"><img src="assets/posters/min30.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -709,7 +709,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### ✂️ **Yalla Style Provider — يلا ستايل**
 *Barbershop provider app: bookings, services and earnings*
 
-<a href="assets/posters/yallastyle.png"><img src="assets/posters/yallastyle.png" width="100%"></a>
+<a href="assets/posters/yallastyle.jpg"><img src="assets/posters/yallastyle.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -736,7 +736,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### ☕ **Itqan Horeca — إتقان**
 *HoReCa supply: coffee, beverages and raw materials for restaurants and hotels*
 
-<a href="assets/posters/itqaan.png"><img src="assets/posters/itqaan.png" width="100%"></a>
+<a href="assets/posters/itqaan.jpg"><img src="assets/posters/itqaan.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -761,7 +761,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 📖 **Khatma — ختمة**
 *Offline Mushaf with voice recitation check, adhkar and prayer times*
 
-<a href="assets/posters/khatma.png"><img src="assets/posters/khatma.png" width="100%"></a>
+<a href="assets/posters/khatma.jpg"><img src="assets/posters/khatma.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `SQLDelight` `Ktor`
@@ -788,7 +788,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🍽️ **Emdad — إمداد**
 *Multi-restaurant marketplace with menus, delivery and flexible payment*
 
-<a href="assets/posters/emdad.png"><img src="assets/posters/emdad.png" width="100%"></a>
+<a href="assets/posters/emdad.jpg"><img src="assets/posters/emdad.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API`
@@ -813,7 +813,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🚗 **SheDrive Driver — شي درايف**
 *Driver app for a women-only ride service*
 
-<a href="assets/posters/shedrive.png"><img src="assets/posters/shedrive.png" width="100%"></a>
+<a href="assets/posters/shedrive.jpg"><img src="assets/posters/shedrive.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `Google Maps`
@@ -840,7 +840,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🏗️ **Concrete Engineering Services**
 *Online engineering school: structural design courses and diplomas*
 
-<a href="assets/posters/concret.png"><img src="assets/posters/concret.png" width="100%"></a>
+<a href="assets/posters/concret.jpg"><img src="assets/posters/concret.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -865,7 +865,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🏭 **EGO — دليل المصانع والشركات**
 *Industrial directory of Egyptian factories, companies and suppliers*
 
-<a href="assets/posters/ego.png"><img src="assets/posters/ego.png" width="100%"></a>
+<a href="assets/posters/ego.jpg"><img src="assets/posters/ego.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API`
@@ -892,7 +892,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🏋️ **G4FIT**
 *Gym memberships and personal training with session packages*
 
-<a href="assets/posters/g4fit.png"><img src="assets/posters/g4fit.png" width="100%"></a>
+<a href="assets/posters/g4fit.jpg"><img src="assets/posters/g4fit.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -917,7 +917,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🛵 **Makuk — مكوك**
 *Restaurants and markets in one app, with sizes, extras and offers*
 
-<a href="assets/posters/makuk.png"><img src="assets/posters/makuk.png" width="100%"></a>
+<a href="assets/posters/makuk.jpg"><img src="assets/posters/makuk.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -944,7 +944,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 📚 **MaxWell — ماكسويل**
 *Learning platform for students and parents, with attendance tracking*
 
-<a href="assets/posters/maxwell.png"><img src="assets/posters/maxwell.png" width="100%"></a>
+<a href="assets/posters/maxwell.jpg"><img src="assets/posters/maxwell.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Java` `Jetpack Compose` `REST API`
@@ -969,7 +969,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🎓 **Ways**
 *Learning platform with video lessons, summaries and practice*
 
-<a href="assets/posters/ways.png"><img src="assets/posters/ways.png" width="100%"></a>
+<a href="assets/posters/ways.jpg"><img src="assets/posters/ways.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API`
@@ -996,7 +996,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 📦 **Wasela — وسيلة**
 *Order anything: purchases, parcels, errands and rides, with captains bidding on your price*
 
-<a href="assets/posters/waselaclient.png"><img src="assets/posters/waselaclient.png" width="100%"></a>
+<a href="assets/posters/waselaclient.jpg"><img src="assets/posters/waselaclient.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `Ktor` `Google Maps`
@@ -1021,7 +1021,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🏪 **Wasela Store — متجر وسيلة**
 *A delivery fleet on demand for your shop, with per-order tracking and accounts*
 
-<a href="assets/posters/waselastore.png"><img src="assets/posters/waselastore.png" width="100%"></a>
+<a href="assets/posters/waselastore.jpg"><img src="assets/posters/waselastore.jpg" width="100%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `Ktor` `REST API`
@@ -1048,7 +1048,7 @@ Every poster below uses real in-app screens — no stock mockups. Click a poster
 ### 🛵 **Wasela Captain — كابتن وسيلة**
 *Courier app: area orders, order detail and a wallet with clear collection*
 
-<a href="assets/posters/wasela.png"><img src="assets/posters/wasela.png" width="62%"></a>
+<a href="assets/posters/wasela.jpg"><img src="assets/posters/wasela.jpg" width="62%"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `Google Maps`
