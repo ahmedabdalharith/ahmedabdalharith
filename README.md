@@ -4,18 +4,28 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Android+%26+iOS+Developer;📊+Mathematics+%26+Computer+Science+Graduate;⚡+Building+Scalable+Cross-Platform+Apps;🎯+Always+Learning+New+Technologies!;💡+Turning+Ideas+Into+Reality!" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=&fontSize=0" width="100%">
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose Multiplatform">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
+<a href="#-featured-projects-showcase"><img src="https://img.shields.io/badge/31%20apps%20on-Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="31 apps on Google Play"></a>
+</p>
 
 <p>
+<b>Android &amp; iOS developer — 31 apps live on Google Play.</b><br>
+I build whole platforms rather than single apps: the customer app, the merchant app and the courier app,<br>
+with the dashboard and API behind them — Arabic-first, full RTL.
+</p>
+
+<p>
+<a href="#-featured-projects-showcase"><b>↓ See the apps</b></a> ·
 <a href="#-about-me">About</a> ·
 <a href="#-tech-stack--expertise">Tech Stack</a> ·
-<a href="#-featured-projects-showcase">Apps</a> ·
 <a href="#-development-journey--roadmap">Roadmap</a> ·
 <a href="#-professional-services--expertise">Services</a> ·
 <a href="#-lets-connect--build-the-future-together">Contact</a>
 </p>
-
-<p><b>31 apps published on Google Play</b> — delivery, e-commerce, healthcare, education, logistics and field services.</p>
 
 </div>
 
@@ -1137,42 +1147,42 @@ secondary:
 
 <div>
 
-**📦 Repositories**
-### 30+
-*Active Projects*
-
-</div>
-
-</td>
-<td width="25%" align="center">
-
-<div>
-
-**⭐ Total Stars**
-### 75+
-*Community Recognition*
-
-</div>
-
-</td>
-<td width="25%" align="center">
-
-<div>
-
-**🔄 Contributions**
-### 1200+
-*This Year*
-
-</div>
-
-</td>
-<td width="25%" align="center">
-
-<div>
-
 **📱 Published Apps**
-### 4+
-*Play Store*
+### 31
+*Live on Google Play*
+
+</div>
+
+</td>
+<td width="25%" align="center">
+
+<div>
+
+**📦 Public Repositories**
+### 18
+*On this account*
+
+</div>
+
+</td>
+<td width="25%" align="center">
+
+<div>
+
+**🗂️ Product Domains**
+### 7
+*Delivery to education*
+
+</div>
+
+</td>
+<td width="25%" align="center">
+
+<div>
+
+**📅 Building Since**
+### 2021
+*Android, then KMP*
 
 </div>
 
@@ -1181,13 +1191,11 @@ secondary:
 </table>
 
 **🎯 Notable Achievements:**
-- 🚀 **Published Developer** - 4+ apps on Google Play Store
-- 💡 **Multi-language Developer** - Kotlin, Java, PHP proficiency  
-- 🏗️ **Full-Stack Capable** - Mobile to Backend expertise
-- 📱 **Cross-Platform Specialist** - Android & iOS development
-- 🎨 **UI/UX Implementer** - Design-to-code excellence
-
-</div>
+- 🚀 **Published Developer** — 31 apps live on Google Play, every link verified
+- 🧩 **Whole Platforms, Not Single Apps** — customer, merchant and courier apps that ship together
+- 💡 **Multi-language Developer** — Kotlin, Java and PHP across mobile and backend
+- 📱 **Cross-Platform Specialist** — Compose Multiplatform for Android and iOS
+- 🌍 **Arabic-First Delivery** — full RTL, Arabic typography and localised content
 
 </div>
 
@@ -1201,17 +1209,16 @@ secondary:
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
 
 ```
-2023 ████████████░░░░ 75% (Learning & Foundation)
-2024 ████████████████░░ 90% (Building & Publishing)  
-2025 ████████████████████ 100% (Cross-Platform Mastery)
+2023  Native Android — Java, XML, REST
+2024  Publishing at pace — multi-role platforms on Play
+2025  Compose Multiplatform — shared Android and iOS code
+2026  31 apps live — delivery, commerce, education, health
 ```
 
-**Current Focus:** 🎯 Compose Multiplatform, Laravel mastery, and advanced mobile architecture  
-**Next Milestone:** ⭐ 10+ published apps & full-stack mobile solutions
+**Current Focus:** 🎯 Compose Multiplatform, realtime order flows, and backend contracts that hold up in production  
+**Next Milestone:** ⭐ iOS releases for the Compose Multiplatform apps already shipping on Android
 
 </div>
-</div>
-
 </div>
 
 </div>
@@ -1278,7 +1285,7 @@ skills_development:
 
 <div>
 
-### 🎯 **2025 Goals & Vision**
+### 🎯 **2026 Goals & Vision**
 
 <img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="80">
 
@@ -1286,11 +1293,11 @@ skills_development:
 
 ```yaml
 objectives:
-  publish: "10+ Mobile Apps"
-  master: "Compose Multiplatform"
-  backend: "Laravel & Spring Boot"
-  contribute: "Open Source Projects"
-  mentor: "Developer Community"
+  ship: "iOS builds for the KMP apps already live on Android"
+  deepen: "Realtime order flows — SignalR, push, offline-first"
+  backend: "Laravel & Spring Boot alongside the mobile work"
+  contribute: "Open source the shared Compose components"
+  mentor: "Arabic-language Android content"
 ```
 
 </div>
@@ -1560,7 +1567,7 @@ objectives:
 
 **🎯 Current Status:** Actively seeking opportunities | Open for freelance | Available for consultations
 
-**📅 Last Updated:** December 2025 | Made with 💜, lots of ☕, and endless passion
+**📅 Last Updated:** October 2026 | Made with 💜, lots of ☕, and endless passion
 
 </div>
 
