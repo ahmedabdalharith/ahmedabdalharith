@@ -190,7 +190,7 @@ const ahmed = {
 ### 🎓 **Academoz - Educational Platform**
 *Comprehensive learning platform connecting students with quality education*
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" style="margin: 10px 0;">
+<a href="assets/posters/academoz.png"><img src="assets/posters/academoz.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Java` `Jetpack Compose` `MVVM` `Firebase` `Material Design 3`
@@ -242,7 +242,7 @@ const ahmed = {
 ### 🍽️ **Lucinda Oasis Restaurant**
 *Modern restaurant ordering app with seamless payment integration*
 
-<img src="https://user-images.githubusercontent.com/74038190/219923828-127f21c6-808e-4e4e-92fe-e4b0c5a87819.gif" width="100" style="margin: 10px 0;">
+<a href="assets/posters/lucinda.png"><img src="assets/posters/lucinda.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `Firebase` `Stripe Payment`
@@ -268,7 +268,7 @@ const ahmed = {
 ### ✈️ **TAS Travel - Flight Booking**
 *Complete travel booking solution with real-time flight search*
 
-<img src="https://user-images.githubusercontent.com/74038190/219923831-65b4b0b4-c9b0-4f1d-b1b4-8c3d8bf65e7d.gif" width="100" style="margin: 10px 0;">
+<a href="assets/posters/tastravel.png"><img src="assets/posters/tastravel.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `MVVM` `REST API` `Ktor`
@@ -296,7 +296,7 @@ const ahmed = {
 ### 🏥 **Medi Care — ميدي كير**
 *Medical care membership with discounts across partner clinics and labs*
 
-<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/medicare.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+<a href="assets/posters/medicare.png"><img src="assets/posters/medicare.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API` `Material Design`
@@ -321,7 +321,7 @@ const ahmed = {
 ### 🛠️ **Home Fix — هوم فيكس**
 *On-demand home maintenance: request a technician, track the visit*
 
-<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/homefix.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+<a href="assets/posters/homefix.png"><img src="assets/posters/homefix.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `MVVM` `Ktor` `Koin`
@@ -348,7 +348,7 @@ const ahmed = {
 ### 🎁 **Hadaya — هدايا**
 *Gift shopping and delivery with occasion-based browsing*
 
-<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/hadaya.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+<a href="assets/posters/hadaya.png"><img src="assets/posters/hadaya.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `Firebase` `REST API`
@@ -373,7 +373,7 @@ const ahmed = {
 ### 🛵 **Tasahel Express — تساهيل إكسبريس**
 *Courier app for assigning, running and closing delivery trips*
 
-<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/tasahel.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+<a href="assets/posters/tasahel.png"><img src="assets/posters/tasahel.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Compose Multiplatform` `MVVM` `Ktor` `Google Maps`
@@ -400,7 +400,7 @@ const ahmed = {
 ### 🚚 **Captain Rocket Cargo**
 *Driver app for freight pickups, loads and proof of delivery*
 
-<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/rocketcargo.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+<a href="assets/posters/rocketcargo.png"><img src="assets/posters/rocketcargo.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
 `Java` `Android SDK` `XML Layouts` `REST API` `Google Maps`
@@ -425,7 +425,7 @@ const ahmed = {
 ### 🏗️ **Rakaez — ركائز**
 *Construction project tracking for clients following their build*
 
-<img src="https://raw.githubusercontent.com/ahmedabdalharith/ahmedabdalharith/main/assets/apps/rakaez.png" width="170" style="margin: 10px 0; border-radius: 12px;">
+<a href="assets/posters/rakaez.png"><img src="assets/posters/rakaez.png" width="100%" style="margin: 10px 0; border-radius: 12px;"></a>
 
 **🔧 Technology Stack:**  
 `Kotlin` `Jetpack Compose` `MVVM` `REST API` `Material Design 3`
@@ -453,31 +453,6 @@ const ahmed = {
 [![View All Projects](https://img.shields.io/badge/🚀%20Explore%20Complete%20Portfolio-white?style=for-the-badge&logoColor=667eea&logo=github)](https://github.com/ahmedabdalharith?tab=repositories)
 
 </div>
-
-</div>
-
----
-
-## 🖼️ App Posters
-
-<div align="center">
-
-Each poster uses real in-app screens — no stock mockups. Click any poster to open it full size.
-
-<table>
-<tr>
-<td width="25%" align="center"><a href="assets/posters/medicare.png"><img src="assets/posters/medicare.png" width="100%"></a><br><b>Medi Care</b><br><sub>رعاية طبية</sub></td>
-<td width="25%" align="center"><a href="assets/posters/homefix.png"><img src="assets/posters/homefix.png" width="100%"></a><br><b>Home Fix</b><br><sub>صيانة منزلية</sub></td>
-<td width="25%" align="center"><a href="assets/posters/hadaya.png"><img src="assets/posters/hadaya.png" width="100%"></a><br><b>Hadaya</b><br><sub>متجر هدايا</sub></td>
-<td width="25%" align="center"><a href="assets/posters/tasahel.png"><img src="assets/posters/tasahel.png" width="100%"></a><br><b>Tasahel Express</b><br><sub>تطبيق المندوب</sub></td>
-</tr>
-<tr>
-<td width="25%" align="center"><a href="assets/posters/rocketcargo.png"><img src="assets/posters/rocketcargo.png" width="100%"></a><br><b>Captain Rocket Cargo</b><br><sub>شحن</sub></td>
-<td width="25%" align="center"><a href="assets/posters/rakaez.png"><img src="assets/posters/rakaez.png" width="100%"></a><br><b>Rakaez</b><br><sub>متابعة مشاريع</sub></td>
-<td width="25%" align="center"><a href="assets/posters/lucinda.png"><img src="assets/posters/lucinda.png" width="100%"></a><br><b>Lucinda Oasis</b><br><sub>مطعم وطلبات</sub></td>
-<td width="25%" align="center"><a href="assets/posters/tastravel.png"><img src="assets/posters/tastravel.png" width="100%"></a><br><b>TAS Travel</b><br><sub>سياحة ورحلات</sub></td>
-</tr>
-</table>
 
 </div>
 
